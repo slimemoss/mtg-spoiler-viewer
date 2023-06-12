@@ -51,6 +51,7 @@ export const Page = () => {
   }, [colors, noColor, rarity])
 
   return (<>
+    test
     <Form>
       <div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
         <Form.Label>レアリティ</Form.Label>
