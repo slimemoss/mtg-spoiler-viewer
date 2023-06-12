@@ -16,3 +16,4 @@ jobs:
       with:
         commit_message: "[Bot] build react"
         file_pattern: dist/index.js
+        branch: deploy
