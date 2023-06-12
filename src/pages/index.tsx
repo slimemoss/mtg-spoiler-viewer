@@ -8,6 +8,7 @@ export const Page = () => {
   const [shown, setShown] = React.useState<MtgCard[]>([])
 
   const [colors, setColors]  = React.useState<Set<string>>(new Set(["W"]))
+  const [noColor, setNoColor] = React.useState<boolean>(false)
   const [rarity, setRarity] = React.useState<Set<string>>(new Set(["common"]))
 
   const sort = (cards: MtgCard[]): MtgCard[] => {
@@ -17,16 +18,20 @@ export const Page = () => {
     return cards
   }
 
-  const filter = (cards: MtgCard[], colors: Set<string>, rarity: Set<string>): MtgCard[] => {
+  const filter = (cards: MtgCard[], colors: Set<string>, noColor: boolean, rarity: Set<string>): MtgCard[] => {
     // color
-    if (colors.size != 0) {
-      cards = cards.filter((c) => {
-        let res = colors.size == c.colors.length
-        colors.forEach((v) => {
-          res = res && c.colors.includes(v)
+    if (noColor) {
+      cards = cards.filter((c) => (c.colors.length == 0))
+    } else {
+      if (colors.size != 0) {
+        cards = cards.filter((c) => {
+          let res = colors.size == c.colors.length
+          colors.forEach((v) => {
+            res = res && c.colors.includes(v)
+          })
+          return res
         })
-        return res
-      })
+      }
     }
 
     // rarity
@@ -41,11 +46,11 @@ export const Page = () => {
 
   React.useEffect(() => {
     let c = sort(CardData)
-    c = filter(c, colors, rarity)
+    c = filter(c, colors, noColor, rarity)
     setShown(c)
-  }, [colors, rarity])
+  }, [colors, noColor, rarity])
 
-  return <>
+  return (<>
     <Form>
       <div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
         <Form.Label>レアリティ</Form.Label>
@@ -74,6 +79,7 @@ export const Page = () => {
             onChange={(e) => {
               let res = new Set(colors)
               if (e.target.checked) {
+                setNoColor(false)
                 res.add(v[0])
               } else {
                 res.delete(v[0])
@@ -82,6 +88,10 @@ export const Page = () => {
             }}
           />
         ))}
+        <Form.Check type="checkbox" label="無色" checked={noColor} onChange={(e) => {
+          if(e.target.checked) {setColors(new Set<string>())}
+          setNoColor(e.target.checked)}
+        } />
       </div>
     </Form>
 
@@ -94,5 +104,5 @@ export const Page = () => {
         ))
       }
     </div> 
-  </>
+  </>)
 }
