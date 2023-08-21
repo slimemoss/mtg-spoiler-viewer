@@ -9,6 +9,32 @@ enum SortBy {
   cost
 }
 
+const ColorOrder = ['W', 'U', 'B', 'R', 'G']
+
+const colorOrderCmp = (a: string, b: string): number => {
+  let ca = ColorOrder.indexOf(a)
+  let cb = ColorOrder.indexOf(b)
+  return ca - cb
+}
+
+const sortColor = (color: string[]): string[] => {
+  return color.concat().sort((a, b) => (colorOrderCmp(a, b)))
+}
+
+const cmpColor = (a: string[], b: string[]): number => {
+  const noColorIsBehind = (a: number): number => (a == 0 ? Number.MAX_SAFE_INTEGER : a)
+  let len = noColorIsBehind(a.length) - noColorIsBehind(b.length)
+  if(len != 0) { return len }
+
+  a = sortColor(a)
+  b = sortColor(b)
+  for (let i = 0; i < a.length; i++) {
+    let cmp = colorOrderCmp(a[i], b[i])
+    if(cmp != 0) { return cmp }
+  }
+  return 0
+}
+
 export const Page = () => {
   const [shown, setShown] = React.useState<MtgCard[]>([])
 
@@ -18,6 +44,7 @@ export const Page = () => {
   const [sortby, setSortBy] = React.useState<SortBy>(SortBy.number)
 
   const sort = (cards: MtgCard[]): MtgCard[] => {
+    cards = cards.concat()
     // mana
     switch (sortby) {
       case SortBy.cost:
@@ -32,14 +59,22 @@ export const Page = () => {
     return cards
   }
 
+  // 色の数, ColorOrder の優先度でソート
+  const sortByColor = (cards: MtgCard[]): MtgCard[] => {
+    cards = cards.concat()
+    cards = cards.sort((a, b) => (cmpColor(a.colors, b.colors)))
+    return cards
+  }
+
   const filter = (cards: MtgCard[], colors: Set<string>, noColor: boolean, rarity: Set<string>): MtgCard[] => {
     // color
+    cards = cards.concat()
     if (noColor) {
       cards = cards.filter((c) => (c.colors.length == 0))
     } else {
       if (colors.size != 0) {
         cards = cards.filter((c) => {
-          let res = colors.size == c.colors.length
+          let res = true
           colors.forEach((v) => {
             res = res && c.colors.includes(v)
           })
@@ -61,6 +96,7 @@ export const Page = () => {
   React.useEffect(() => {
     let c = sort(CardData)
     c = filter(c, colors, noColor, rarity)
+    c = sortByColor(c)
     setShown(c)
   }, [colors, noColor, rarity, sortby])
 
