@@ -11,17 +11,17 @@ enum SortBy {
 
 const ColorOrder = ['W', 'U', 'B', 'R', 'G']
 
-const colorOrderCmp = (a: string, b: string): number => {
-  let ca = ColorOrder.indexOf(a)
-  let cb = ColorOrder.indexOf(b)
-  return ca - cb
-}
-
-const sortColor = (color: string[]): string[] => {
-  return color.concat().sort((a, b) => (colorOrderCmp(a, b)))
-}
-
 const cmpColor = (a: string[], b: string[]): number => {
+  const colorOrderCmp = (a: string, b: string): number => {
+    let ca = ColorOrder.indexOf(a)
+    let cb = ColorOrder.indexOf(b)
+    return ca - cb
+  }
+
+  const sortColor = (color: string[]): string[] => {
+    return color.concat().sort((a, b) => (colorOrderCmp(a, b)))
+  }
+
   const noColorIsBehind = (a: number): number => (a == 0 ? Number.MAX_SAFE_INTEGER : a)
   let len = noColorIsBehind(a.length) - noColorIsBehind(b.length)
   if(len != 0) { return len }
@@ -40,7 +40,7 @@ export const Page = () => {
 
   const [colors, setColors]  = React.useState<Set<string>>(new Set(["W"]))
   const [noColor, setNoColor] = React.useState<boolean>(false)
-  const [rarity, setRarity] = React.useState<Set<string>>(new Set(["common"]))
+  const [rarity, setRarity] = React.useState<Set<string>>(new Set([]))
   const [sortby, setSortBy] = React.useState<SortBy>(SortBy.number)
 
   const sort = (cards: MtgCard[]): MtgCard[] => {
