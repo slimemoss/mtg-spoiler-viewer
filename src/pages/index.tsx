@@ -2,8 +2,6 @@ import * as React from 'react'
 import { Form } from 'react-bootstrap'
 import { MtgCard } from '../data/LTR'
 
-import CardData from '../data/LTR.json'
-
 enum SortBy {
   number,
   cost
@@ -35,7 +33,10 @@ const cmpColor = (a: string[], b: string[]): number => {
   return 0
 }
 
-export const Page = () => {
+interface Props {
+  data: MtgCard[]
+}
+export const Page = (props: Props) => {
   const [shown, setShown] = React.useState<MtgCard[]>([])
 
   const [colors, setColors]  = React.useState<Set<string>>(new Set(["W"]))
@@ -94,11 +95,11 @@ export const Page = () => {
   }
 
   React.useEffect(() => {
-    let c = sort(CardData)
+    let c = sort(props.data)
     c = filter(c, colors, noColor, rarity)
     c = sortByColor(c)
     setShown(c)
-  }, [colors, noColor, rarity, sortby])
+  }, [colors, noColor, rarity, sortby, props.data])
 
   return (<>
     <Form>
@@ -174,7 +175,7 @@ export const Page = () => {
       {
         shown.map((card, i) => (
           <div key={i} style={{margin: '0.2rem'}}>
-            <img src={card.imageurl} height={512}/>
+            <img src={card.imageurl} height={512} loading="lazy"/>
             <div style={{textAlign: 'center'}}>{card.jname}</div>
           </div>
         ))

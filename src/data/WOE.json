@@ -1,0 +1,202 @@
+[
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 5,
+    "rarity": "common",
+    "jname": "エドラスからの追放",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_7f73e61db0.png",
+    "number": "1"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "rare",
+    "jname": "水の辺村の合戦",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_23d283ffa4.png",
+    "number": "2"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 4,
+    "rarity": "uncommon",
+    "jname": "小馬のビル",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_0be114b28c.png",
+    "number": "3"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "rare",
+    "jname": "塔の長官、ボロミア",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_fb1789b4e8.png",
+    "number": "4"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 2,
+    "rarity": "mythic",
+    "jname": "新たなる紀の始まり",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_ff5e656cd2.png",
+    "number": "5"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 2,
+    "rarity": "common",
+    "jname": "ドゥネダインの刃",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_352ff242df.png",
+    "number": "6"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 6,
+    "rarity": "common",
+    "jname": "北方の大鷲",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_f5b549d145.png",
+    "number": "7"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "common",
+    "jname": "東四が一の庄の農夫",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_951d1beebe.png",
+    "number": "8"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 2,
+    "rarity": "common",
+    "jname": "東マーク軍団の騎兵",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_ffff91cc3e.png",
+    "number": "9"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "uncommon",
+    "jname": "ローハンの姫君、エオウィン",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_b7f86b6035.png",
+    "number": "10"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "common",
+    "jname": "ゴンドールの使者",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_1e06dc3e63.png",
+    "number": "11"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 1,
+    "rarity": "common",
+    "jname": "オルサンクからの脱出",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_12878ff16f.png",
+    "number": "12"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 1,
+    "rarity": "common",
+    "jname": "王家の小姓",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_1c8164c1c9.png",
+    "number": "13"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 4,
+    "rarity": "uncommon",
+    "jname": "野戦指揮官、ファラミア",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_dbc7f8ba82.png",
+    "number": "14"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 2,
+    "rarity": "rare",
+    "jname": "白の木に花開く",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_97dd458a0d.png",
+    "number": "15"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "common",
+    "jname": "塚山丘陵の霧",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_b2ec981ebe.png",
+    "number": "16"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 3,
+    "rarity": "rare",
+    "jname": "再鍛造",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_3fc0626c1a.png",
+    "number": "17"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 1,
+    "rarity": "rare",
+    "jname": "サウロンの破滅、フロド",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_e1bbe34ee3.png",
+    "number": "18"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 5,
+    "rarity": "mythic",
+    "jname": "白のガンダルフ",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_3f90145a2e.png",
+    "number": "19"
+  },
+  {
+    "colors": [
+      "W"
+    ],
+    "manaValue": 2,
+    "rarity": "common",
+    "jname": "ホビットのつらぬき",
+    "imageurl": "https://media.wizards.com/2023/ltr/jp_1d876a0c71.png",
+    "number": "20"
+  }
+]
