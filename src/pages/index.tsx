@@ -173,8 +173,9 @@ export const Page = () => {
     <div style={{display: 'flex', flexWrap: 'wrap'}}>
       {
         shown.map((card, i) => (
-          <div key={i}>
+          <div key={i} style={{margin: '0.2rem'}}>
             <img src={card.imageurl} height={512}/>
+            <div style={{textAlign: 'center'}}>{card.jname}</div>
           </div>
         ))
       }
