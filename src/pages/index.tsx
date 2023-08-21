@@ -4,16 +4,30 @@ import { MtgCard } from '../data/LTR'
 
 import CardData from '../data/LTR.json'
 
+enum SortBy {
+  number,
+  cost
+}
+
 export const Page = () => {
   const [shown, setShown] = React.useState<MtgCard[]>([])
 
   const [colors, setColors]  = React.useState<Set<string>>(new Set(["W"]))
   const [noColor, setNoColor] = React.useState<boolean>(false)
   const [rarity, setRarity] = React.useState<Set<string>>(new Set(["common"]))
+  const [sortby, setSortBy] = React.useState<SortBy>(SortBy.number)
 
   const sort = (cards: MtgCard[]): MtgCard[] => {
     // mana
-    cards = cards.sort((a, b) => (a.manaValue - b.manaValue))
+    switch (sortby) {
+      case SortBy.cost:
+        cards = cards.sort((a, b) => (a.manaValue - b.manaValue))
+        break
+      case SortBy.number:
+      default:
+        cards = cards.sort((a, b) => (parseInt(a.number) - parseInt(b.number)))
+        break
+    }
 
     return cards
   }
@@ -48,7 +62,7 @@ export const Page = () => {
     let c = sort(CardData)
     c = filter(c, colors, noColor, rarity)
     setShown(c)
-  }, [colors, noColor, rarity])
+  }, [colors, noColor, rarity, sortby])
 
   return (<>
     <Form>
@@ -92,6 +106,31 @@ export const Page = () => {
           if(e.target.checked) {setColors(new Set<string>())}
           setNoColor(e.target.checked)}
         } />
+      </div>
+    </Form>
+    <Form>
+      <div style={{display: 'flex', flexWrap: 'wrap', gap: '1rem'}}>
+        <Form.Label>ソート</Form.Label>
+        <Form.Check
+          checked={sortby == SortBy.number}
+          onChange={(e) => {
+            console.log(e)
+            setSortBy(SortBy.number)
+          }}
+          label="ID"
+          name="sortby"
+          type="radio"
+        />
+        <Form.Check
+          checked={sortby == SortBy.cost}
+          onChange={(e) => {
+            setSortBy(SortBy.cost)
+            console.log(e)
+          }}
+          label="Mana"
+          name="sortby"
+          type="radio"
+        />
       </div>
     </Form>
 
