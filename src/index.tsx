@@ -11,6 +11,10 @@ const root = createRoot(container)
 
 root.render(
   <>
+    <div hidden={true}>
+      <a href="#/ltr">ltr</a>
+    </div>
+
     <HashRouter>
       <Routes>
         <Route path="/" element={<Page data={DataLTR} />}/>
