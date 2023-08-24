@@ -63,7 +63,7 @@ export const Page = (props: Props) => {
   // 色の数, ColorOrder の優先度でソート
   const sortByColor = (cards: MtgCard[]): MtgCard[] => {
     cards = cards.concat()
-    cards = cards.sort((a, b) => (cmpColor(a.colors, b.colors)))
+    cards = cards.sort((a, b) => (cmpColor(a.colorIdentity, b.colorIdentity)))
     return cards
   }
 
@@ -71,13 +71,13 @@ export const Page = (props: Props) => {
     // color
     cards = cards.concat()
     if (noColor) {
-      cards = cards.filter((c) => (c.colors.length == 0))
+      cards = cards.filter((c) => (c.colorIdentity.length == 0))
     } else {
       if (colors.size != 0) {
         cards = cards.filter((c) => {
           let res = true
           colors.forEach((v) => {
-            res = res && c.colors.includes(v)
+            res = res && c.colorIdentity.includes(v)
           })
           return res
         })

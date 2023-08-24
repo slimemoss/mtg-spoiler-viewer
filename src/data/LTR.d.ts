@@ -1,5 +1,5 @@
 export interface MtgCard {
-  colors: string[],
+  colorIdentity: string[],
   manaValue: number,
   rarity: string,
   jname: string,

@@ -1,6 +1,6 @@
 [
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 5,
@@ -10,7 +10,7 @@
     "number": "1"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -20,7 +20,7 @@
     "number": "2"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 4,
@@ -30,7 +30,7 @@
     "number": "3"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -40,7 +40,7 @@
     "number": "4"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -50,7 +50,7 @@
     "number": "5"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -60,7 +60,7 @@
     "number": "6"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 6,
@@ -70,7 +70,7 @@
     "number": "7"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -80,7 +80,7 @@
     "number": "8"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -90,7 +90,7 @@
     "number": "9"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -100,7 +100,7 @@
     "number": "10"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -110,7 +110,7 @@
     "number": "11"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 1,
@@ -120,7 +120,7 @@
     "number": "12"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 1,
@@ -130,7 +130,7 @@
     "number": "13"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 4,
@@ -140,7 +140,7 @@
     "number": "14"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -150,7 +150,7 @@
     "number": "15"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -160,7 +160,7 @@
     "number": "16"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -170,7 +170,8 @@
     "number": "17"
   },
   {
-    "colors": [
+    "colorIdentity": [
+      "B",
       "W"
     ],
     "manaValue": 1,
@@ -180,7 +181,7 @@
     "number": "18"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 5,
@@ -190,7 +191,7 @@
     "number": "19"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -200,7 +201,7 @@
     "number": "20"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 5,
@@ -210,7 +211,7 @@
     "number": "21"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -220,7 +221,7 @@
     "number": "22"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -230,7 +231,7 @@
     "number": "23"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 4,
@@ -240,7 +241,7 @@
     "number": "24"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 4,
@@ -250,7 +251,7 @@
     "number": "25"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -260,7 +261,7 @@
     "number": "26"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -270,7 +271,7 @@
     "number": "27"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -280,7 +281,7 @@
     "number": "28"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 3,
@@ -290,7 +291,7 @@
     "number": "29"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -300,7 +301,7 @@
     "number": "30"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -310,7 +311,7 @@
     "number": "31"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 4,
@@ -320,7 +321,7 @@
     "number": "32"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 5,
@@ -330,7 +331,7 @@
     "number": "33"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 5,
@@ -340,7 +341,7 @@
     "number": "34"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -350,7 +351,7 @@
     "number": "35"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 4,
@@ -360,7 +361,7 @@
     "number": "36"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 2,
@@ -370,7 +371,7 @@
     "number": "37"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "W"
     ],
     "manaValue": 1,
@@ -380,7 +381,7 @@
     "number": "38"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -390,7 +391,7 @@
     "number": "39"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -400,7 +401,7 @@
     "number": "40"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -410,7 +411,7 @@
     "number": "41"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -420,7 +421,7 @@
     "number": "42"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 1,
@@ -430,7 +431,7 @@
     "number": "43"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -440,7 +441,7 @@
     "number": "44"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -450,7 +451,7 @@
     "number": "45"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -460,7 +461,7 @@
     "number": "46"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 1,
@@ -470,7 +471,7 @@
     "number": "47"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -480,7 +481,7 @@
     "number": "48"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -490,7 +491,7 @@
     "number": "49"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -500,7 +501,7 @@
     "number": "50"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -510,7 +511,7 @@
     "number": "51"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -520,7 +521,7 @@
     "number": "52"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -530,7 +531,7 @@
     "number": "53"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -540,7 +541,7 @@
     "number": "54"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 5,
@@ -550,7 +551,7 @@
     "number": "55"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -560,7 +561,7 @@
     "number": "56"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -570,7 +571,7 @@
     "number": "57"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -580,7 +581,7 @@
     "number": "58"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -590,7 +591,7 @@
     "number": "59"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 5,
@@ -600,7 +601,7 @@
     "number": "60"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -610,7 +611,7 @@
     "number": "61"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -620,7 +621,7 @@
     "number": "62"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -630,7 +631,7 @@
     "number": "63"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -640,7 +641,7 @@
     "number": "64"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -650,7 +651,7 @@
     "number": "65"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -660,7 +661,7 @@
     "number": "66"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 5,
@@ -670,7 +671,7 @@
     "number": "67"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -680,7 +681,7 @@
     "number": "68"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -690,7 +691,7 @@
     "number": "69"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 2,
@@ -700,7 +701,7 @@
     "number": "70"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 1,
@@ -710,7 +711,7 @@
     "number": "71"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 6,
@@ -720,7 +721,7 @@
     "number": "72"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 4,
@@ -730,7 +731,7 @@
     "number": "73"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3,
@@ -740,7 +741,7 @@
     "number": "74"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 5,
@@ -750,7 +751,7 @@
     "number": "75"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 5,
@@ -760,7 +761,7 @@
     "number": "76"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -770,7 +771,7 @@
     "number": "77"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -780,7 +781,7 @@
     "number": "78"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -790,7 +791,7 @@
     "number": "79"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 5,
@@ -800,7 +801,7 @@
     "number": "80"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -810,7 +811,7 @@
     "number": "81"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -820,7 +821,7 @@
     "number": "82"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -830,7 +831,7 @@
     "number": "83"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -840,7 +841,7 @@
     "number": "84"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 1,
@@ -850,7 +851,7 @@
     "number": "85"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -860,7 +861,7 @@
     "number": "86"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -870,7 +871,7 @@
     "number": "87"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -880,7 +881,7 @@
     "number": "88"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -890,7 +891,7 @@
     "number": "89"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 1,
@@ -900,7 +901,7 @@
     "number": "90"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -910,7 +911,7 @@
     "number": "91"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 1,
@@ -920,7 +921,7 @@
     "number": "92"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -930,7 +931,7 @@
     "number": "93"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -940,7 +941,7 @@
     "number": "94"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -950,7 +951,7 @@
     "number": "95"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -960,7 +961,7 @@
     "number": "96"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -970,7 +971,7 @@
     "number": "97"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -980,7 +981,7 @@
     "number": "98"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -990,7 +991,7 @@
     "number": "99"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -1000,7 +1001,7 @@
     "number": "100"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -1010,7 +1011,7 @@
     "number": "101"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -1020,7 +1021,7 @@
     "number": "102"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -1030,7 +1031,7 @@
     "number": "103"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 2,
@@ -1040,7 +1041,7 @@
     "number": "104"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 1,
@@ -1050,7 +1051,7 @@
     "number": "105"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 5,
@@ -1060,7 +1061,7 @@
     "number": "106"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 6,
@@ -1070,7 +1071,7 @@
     "number": "107"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 1,
@@ -1080,7 +1081,7 @@
     "number": "108"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -1090,7 +1091,7 @@
     "number": "109"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 4,
@@ -1100,7 +1101,7 @@
     "number": "110"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 6,
@@ -1110,7 +1111,7 @@
     "number": "111"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 3,
@@ -1120,7 +1121,7 @@
     "number": "112"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 6,
@@ -1130,7 +1131,7 @@
     "number": "113"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B"
     ],
     "manaValue": 5,
@@ -1140,7 +1141,7 @@
     "number": "114"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1150,7 +1151,7 @@
     "number": "115"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1160,7 +1161,7 @@
     "number": "116"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1170,7 +1171,7 @@
     "number": "117"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1180,7 +1181,7 @@
     "number": "118"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1190,7 +1191,7 @@
     "number": "119"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1200,7 +1201,7 @@
     "number": "120"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 5,
@@ -1210,7 +1211,7 @@
     "number": "121"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1220,7 +1221,7 @@
     "number": "122"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1230,7 +1231,7 @@
     "number": "123"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1240,7 +1241,7 @@
     "number": "124"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 1,
@@ -1250,7 +1251,7 @@
     "number": "125"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1260,7 +1261,7 @@
     "number": "126"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1270,7 +1271,7 @@
     "number": "127"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1280,7 +1281,7 @@
     "number": "128"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1290,7 +1291,7 @@
     "number": "129"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1300,7 +1301,7 @@
     "number": "130"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1310,7 +1311,7 @@
     "number": "131"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1320,7 +1321,7 @@
     "number": "132"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1330,7 +1331,7 @@
     "number": "133"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1340,7 +1341,7 @@
     "number": "134"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1350,7 +1351,7 @@
     "number": "135"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 5,
@@ -1360,7 +1361,7 @@
     "number": "136"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1370,7 +1371,7 @@
     "number": "137"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1380,7 +1381,7 @@
     "number": "138"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 6,
@@ -1390,7 +1391,7 @@
     "number": "139"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1400,7 +1401,7 @@
     "number": "140"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1410,7 +1411,7 @@
     "number": "141"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1420,7 +1421,7 @@
     "number": "142"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 1,
@@ -1430,7 +1431,7 @@
     "number": "143"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4,
@@ -1440,7 +1441,7 @@
     "number": "144"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1450,7 +1451,7 @@
     "number": "145"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 1,
@@ -1460,7 +1461,7 @@
     "number": "146"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 1,
@@ -1470,7 +1471,7 @@
     "number": "147"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1480,7 +1481,7 @@
     "number": "148"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 2,
@@ -1490,7 +1491,7 @@
     "number": "149"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 3,
@@ -1500,7 +1501,7 @@
     "number": "150"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 5,
@@ -1510,7 +1511,7 @@
     "number": "151"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 5,
@@ -1520,7 +1521,7 @@
     "number": "152"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1530,7 +1531,7 @@
     "number": "153"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1540,7 +1541,7 @@
     "number": "154"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1550,7 +1551,7 @@
     "number": "155"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1560,7 +1561,7 @@
     "number": "156"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1570,7 +1571,7 @@
     "number": "157"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 1,
@@ -1580,7 +1581,7 @@
     "number": "158"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1590,7 +1591,7 @@
     "number": "159"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1600,7 +1601,7 @@
     "number": "160"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 1,
@@ -1610,7 +1611,7 @@
     "number": "161"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 5,
@@ -1620,7 +1621,7 @@
     "number": "162"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1630,7 +1631,7 @@
     "number": "163"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1640,7 +1641,7 @@
     "number": "164"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1650,7 +1651,7 @@
     "number": "165"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 7,
@@ -1660,7 +1661,7 @@
     "number": "166"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1670,7 +1671,7 @@
     "number": "167"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1680,7 +1681,7 @@
     "number": "168"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 6,
@@ -1690,7 +1691,7 @@
     "number": "169"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1700,7 +1701,7 @@
     "number": "170"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1710,7 +1711,7 @@
     "number": "171"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 8,
@@ -1720,7 +1721,7 @@
     "number": "172"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1730,7 +1731,7 @@
     "number": "173"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 1,
@@ -1740,7 +1741,7 @@
     "number": "174"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1750,7 +1751,7 @@
     "number": "175"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 1,
@@ -1760,7 +1761,7 @@
     "number": "176"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1770,7 +1771,7 @@
     "number": "177"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 1,
@@ -1780,7 +1781,7 @@
     "number": "178"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1790,7 +1791,7 @@
     "number": "179"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1800,7 +1801,7 @@
     "number": "180"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1810,7 +1811,7 @@
     "number": "181"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 1,
@@ -1820,7 +1821,7 @@
     "number": "182"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 6,
@@ -1830,7 +1831,7 @@
     "number": "183"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1840,7 +1841,7 @@
     "number": "184"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1850,7 +1851,7 @@
     "number": "185"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 4,
@@ -1860,7 +1861,7 @@
     "number": "186"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1870,7 +1871,7 @@
     "number": "187"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1880,7 +1881,7 @@
     "number": "188"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 3,
@@ -1890,7 +1891,7 @@
     "number": "189"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G"
     ],
     "manaValue": 2,
@@ -1900,7 +1901,7 @@
     "number": "190"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "W"
     ],
@@ -1911,7 +1912,7 @@
     "number": "191"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "R",
       "U",
@@ -1924,7 +1925,7 @@
     "number": "192"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "W"
     ],
@@ -1935,7 +1936,7 @@
     "number": "193"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "U"
     ],
@@ -1946,7 +1947,7 @@
     "number": "194"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "R"
     ],
@@ -1957,7 +1958,7 @@
     "number": "195"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "U"
     ],
@@ -1968,7 +1969,7 @@
     "number": "196"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "W"
     ],
@@ -1979,7 +1980,7 @@
     "number": "197"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "W"
     ],
@@ -1990,7 +1991,7 @@
     "number": "198"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "R"
     ],
@@ -2001,7 +2002,7 @@
     "number": "199"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "U"
     ],
@@ -2012,7 +2013,7 @@
     "number": "200"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "W"
     ],
@@ -2023,7 +2024,7 @@
     "number": "201"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U",
       "W"
     ],
@@ -2034,7 +2035,7 @@
     "number": "202"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "U"
     ],
@@ -2045,7 +2046,7 @@
     "number": "203"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "R"
     ],
@@ -2056,7 +2057,7 @@
     "number": "204"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "W"
     ],
@@ -2067,7 +2068,7 @@
     "number": "205"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "U"
     ],
@@ -2078,7 +2079,7 @@
     "number": "206"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "U"
     ],
@@ -2089,7 +2090,7 @@
     "number": "207"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "U"
     ],
@@ -2100,7 +2101,7 @@
     "number": "208"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "R"
     ],
@@ -2111,7 +2112,7 @@
     "number": "209"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U",
       "W"
     ],
@@ -2122,7 +2123,7 @@
     "number": "210"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "W"
     ],
@@ -2133,7 +2134,7 @@
     "number": "211"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "U"
     ],
@@ -2144,7 +2145,7 @@
     "number": "212"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "W"
     ],
@@ -2155,7 +2156,7 @@
     "number": "213"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "R"
     ],
@@ -2166,7 +2167,7 @@
     "number": "214"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "W"
     ],
@@ -2177,7 +2178,7 @@
     "number": "215"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "U"
     ],
@@ -2188,7 +2189,7 @@
     "number": "216"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "G"
     ],
@@ -2199,7 +2200,7 @@
     "number": "217"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U",
       "W"
     ],
@@ -2210,7 +2211,7 @@
     "number": "218"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "U",
       "W"
     ],
@@ -2221,7 +2222,7 @@
     "number": "219"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "U"
     ],
@@ -2232,7 +2233,7 @@
     "number": "220"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "G"
     ],
@@ -2243,7 +2244,7 @@
     "number": "221"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "W"
     ],
@@ -2254,7 +2255,7 @@
     "number": "222"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "U",
       "W"
@@ -2266,7 +2267,7 @@
     "number": "223"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "R",
       "U"
@@ -2278,7 +2279,7 @@
     "number": "224"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "U"
     ],
@@ -2289,7 +2290,7 @@
     "number": "225"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "W"
     ],
@@ -2300,7 +2301,7 @@
     "number": "226"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "W"
     ],
@@ -2311,7 +2312,7 @@
     "number": "227"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "R"
     ],
@@ -2322,7 +2323,7 @@
     "number": "228"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "U"
     ],
@@ -2333,7 +2334,7 @@
     "number": "229"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "G"
     ],
@@ -2344,7 +2345,7 @@
     "number": "230"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "G"
     ],
@@ -2355,7 +2356,7 @@
     "number": "231"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "G",
       "R"
     ],
@@ -2366,7 +2367,7 @@
     "number": "232"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "R",
       "W"
     ],
@@ -2377,7 +2378,7 @@
     "number": "233"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "G",
       "R",
@@ -2391,7 +2392,7 @@
     "number": "234"
   },
   {
-    "colors": [
+    "colorIdentity": [
       "B",
       "R"
     ],
@@ -2402,7 +2403,7 @@
     "number": "235"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 3,
     "rarity": "mythic",
     "jname": "西方の焰、アンドゥーリル",
@@ -2410,7 +2411,7 @@
     "number": "236"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 1,
     "rarity": "uncommon",
     "jname": "塚山出土の太刀",
@@ -2418,7 +2419,7 @@
     "number": "237"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "uncommon",
     "jname": "エント枯れの盆地",
@@ -2426,7 +2427,7 @@
     "number": "238"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "mythic",
     "jname": "グラムドリング",
@@ -2434,7 +2435,7 @@
     "number": "239"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 3,
     "rarity": "rare",
     "jname": "ゴンドールの角笛",
@@ -2442,7 +2443,7 @@
     "number": "240"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "rare",
     "jname": "印の角笛",
@@ -2450,7 +2451,7 @@
     "number": "241"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 3,
     "rarity": "common",
     "jname": "受け継いだ封筒",
@@ -2458,7 +2459,7 @@
     "number": "242"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "common",
     "jname": "レンバス",
@@ -2466,7 +2467,7 @@
     "number": "243"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "uncommon",
     "jname": "ガラドリエルの鏡",
@@ -2474,7 +2475,7 @@
     "number": "244"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 3,
     "rarity": "rare",
     "jname": "ミスリルの胴着",
@@ -2482,7 +2483,7 @@
     "number": "245"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 4,
     "rarity": "mythic",
     "jname": "一つの指輪",
@@ -2490,7 +2491,7 @@
     "number": "246"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 3,
     "rarity": "mythic",
     "jname": "オルサンクのパランティール",
@@ -2498,7 +2499,7 @@
     "number": "247"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 3,
     "rarity": "rare",
     "jname": "ガラドリエルの玻璃瓶",
@@ -2506,7 +2507,7 @@
     "number": "248"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "common",
     "jname": "ホビット庄のかかし",
@@ -2514,7 +2515,7 @@
     "number": "249"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 2,
     "rarity": "rare",
     "jname": "きらめく短剣、つらぬき丸",
@@ -2522,7 +2523,7 @@
     "number": "250"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 1,
     "rarity": "uncommon",
     "jname": "エレヒの石",
@@ -2530,7 +2531,7 @@
     "number": "251"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 1,
     "rarity": "common",
     "jname": "魔法使の打ち上げ花火",
@@ -2538,7 +2539,9 @@
     "number": "252"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 0,
     "rarity": "rare",
     "jname": "バラド＝ドゥール",
@@ -2546,7 +2549,7 @@
     "number": "253"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 0,
     "rarity": "common",
     "jname": "城塞の大広間",
@@ -2554,7 +2557,7 @@
     "number": "254"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 0,
     "rarity": "uncommon",
     "jname": "灰色港",
@@ -2562,7 +2565,9 @@
     "number": "255"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 0,
     "rarity": "rare",
     "jname": "ミナス・ティリス",
@@ -2570,7 +2575,9 @@
     "number": "256"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 0,
     "rarity": "rare",
     "jname": "モリアの坑道",
@@ -2578,7 +2585,10 @@
     "number": "257"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
     "manaValue": 0,
     "rarity": "mythic",
     "jname": "滅びの山",
@@ -2586,7 +2596,9 @@
     "number": "258"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 0,
     "rarity": "rare",
     "jname": "裂け谷",
@@ -2594,7 +2606,9 @@
     "number": "259"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 0,
     "rarity": "rare",
     "jname": "ホビット庄",
@@ -2602,7 +2616,7 @@
     "number": "260"
   },
   {
-    "colors": [],
+    "colorIdentity": [],
     "manaValue": 0,
     "rarity": "common",
     "jname": "ホビット庄の段々畑",
@@ -2610,7 +2624,9 @@
     "number": "261"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "平地",
@@ -2618,7 +2634,9 @@
     "number": "262"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "平地",
@@ -2626,7 +2644,9 @@
     "number": "263"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "島",
@@ -2634,7 +2654,9 @@
     "number": "264"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "島",
@@ -2642,7 +2664,9 @@
     "number": "265"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "沼",
@@ -2650,7 +2674,9 @@
     "number": "266"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "沼",
@@ -2658,7 +2684,9 @@
     "number": "267"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "山",
@@ -2666,7 +2694,9 @@
     "number": "268"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "山",
@@ -2674,7 +2704,9 @@
     "number": "269"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "森",
@@ -2682,7 +2714,9 @@
     "number": "270"
   },
   {
-    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 0,
     "rarity": "common",
     "jname": "森",
