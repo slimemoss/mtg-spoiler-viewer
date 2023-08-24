@@ -41,6 +41,7 @@ export const Page = (props: Props) => {
 
   const [colors, setColors]  = React.useState<Set<string>>(new Set(["W"]))
   const [noColor, setNoColor] = React.useState<boolean>(false)
+  const [land, setLand] = React.useState<boolean>(false)
   const [rarity, setRarity] = React.useState<Set<string>>(new Set([]))
   const [sortby, setSortBy] = React.useState<SortBy>(SortBy.number)
 
@@ -67,12 +68,16 @@ export const Page = (props: Props) => {
     return cards
   }
 
-  const filter = (cards: MtgCard[], colors: Set<string>, noColor: boolean, rarity: Set<string>): MtgCard[] => {
+  const filter = (cards: MtgCard[], colors: Set<string>, noColor: boolean, land: boolean, rarity: Set<string>): MtgCard[] => {
     // color
     cards = cards.concat()
     if (noColor) {
+      cards = cards.filter((c) => (!c.types.includes('Land')))
       cards = cards.filter((c) => (c.colorIdentity.length == 0))
+    } else if (land){
+      cards = cards.filter((c) => (c.types.includes('Land')))
     } else {
+      cards = cards.filter((c) => (!c.types.includes('Land')))
       if (colors.size != 0) {
         cards = cards.filter((c) => {
           let res = true
@@ -96,10 +101,10 @@ export const Page = (props: Props) => {
 
   React.useEffect(() => {
     let c = sort(props.data)
-    c = filter(c, colors, noColor, rarity)
+    c = filter(c, colors, noColor, land, rarity)
     c = sortByColor(c)
     setShown(c)
-  }, [colors, noColor, rarity, sortby, props.data])
+  }, [colors, noColor, land, rarity, sortby, props.data])
 
   return (<>
     <Form>
@@ -131,6 +136,7 @@ export const Page = (props: Props) => {
               let res = new Set(colors)
               if (e.target.checked) {
                 setNoColor(false)
+                setLand(false)
                 res.add(v[0])
               } else {
                 res.delete(v[0])
@@ -141,8 +147,14 @@ export const Page = (props: Props) => {
         ))}
         <Form.Check type="checkbox" label="無色" checked={noColor} onChange={(e) => {
           if(e.target.checked) {setColors(new Set<string>())}
-          setNoColor(e.target.checked)}
-        } />
+          setNoColor(e.target.checked)
+          setLand(false)
+        }} />
+        <Form.Check type="checkbox" label="土地" checked={land} onChange={(e) => {
+          if(e.target.checked) {setColors(new Set<string>())}
+          setNoColor(false)
+          setLand(e.target.checked)
+        }} />
       </div>
     </Form>
     <Form>
@@ -176,7 +188,7 @@ export const Page = (props: Props) => {
         shown.map((card, i) => (
           <div key={i} style={{margin: '0.2rem'}}>
             <img src={card.imageurl} height={512} loading="lazy"/>
-            <div style={{textAlign: 'center'}}>{card.jname}</div>
+            <div style={{textAlign: 'center'}}>{card.jname} {card.number}</div>
           </div>
         ))
       }

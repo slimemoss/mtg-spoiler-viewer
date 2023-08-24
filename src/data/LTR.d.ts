@@ -4,7 +4,8 @@ export interface MtgCard {
   rarity: string,
   jname: string,
   imageurl: string,
-  number: string
+  number: string,
+  types: string[]
 }
 
 declare module '~/data/LTR.json' {
