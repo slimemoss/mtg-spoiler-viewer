@@ -17,9 +17,9 @@ root.render(
       title={'エルドレインの森 カードギャラリー | slimemoss'}
       meta={[
         { name: 'twitter:card', content: 'summary_large_image' },
-        { property: 'og:image', content: 'https://raw.githubusercontent.com/slimemoss/mtg-spoiler-viewer/master/src/image/woe.png' },
-        { property: 'og:title', content: 'エルドレインの森 カードギャラリー' },
-        { property: 'og:description', content: '色とレアのフィルターができる、シンプルなカードギャラリーです。' }
+        { name: 'twitter:image', content: 'https://raw.githubusercontent.com/slimemoss/mtg-spoiler-viewer/master/src/image/woe.png' },
+        { name: 'twitter:title', content: 'エルドレインの森 カードギャラリー' },
+        { name: 'twitter:description', content: '色とレアのフィルターができる、シンプルなカードギャラリーです。' }
       ]}
     />
 
