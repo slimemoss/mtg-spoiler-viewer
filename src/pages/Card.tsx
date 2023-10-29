@@ -15,7 +15,7 @@ const CardWithoutBack = (props: Props) => {
   return (
     <>
       <img src={card.imageurl} loading="lazy"
-           style={{minWidth: '300px', maxWidth: '100%', height: 'auto'}} />
+           style={{minWidth: '300px', width: '100%', height: 'auto'}} />
       <div style={{textAlign: 'center'}}>{card.jname}</div>
     </>
   )
