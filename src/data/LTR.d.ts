@@ -2,10 +2,11 @@ export interface MtgCard {
   colorIdentity: string[],
   manaValue: number,
   rarity: string,
+  number: string,
+  types: string[],
   jname: string,
   imageurl: string,
-  number: string,
-  types: string[]
+  backimageurl?: string | null,
 }
 
 declare module '~/data/LTR.json' {

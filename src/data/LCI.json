@@ -1,0 +1,1151 @@
+[
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "8",
+    "types": [],
+    "jname": "不屈の解体者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_7222f3fb29.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "14",
+    "types": [],
+    "jname": "失せろ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_c28011e97b.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "19",
+    "types": [],
+    "jname": "キンジャーリの黎明走り",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_9cd8d26743.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "24",
+    "types": [],
+    "jname": "鉱夫の導鳥",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_38d3de6650.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "25",
+    "types": [],
+    "jname": "悪戯好きの子犬",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_25dae2b334.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "number": "26",
+    "types": [
+      "Land"
+    ],
+    "jname": "最深の基盤、オヘル・タク",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_919776ce8f.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_037f1f3141.png"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "28",
+    "types": [],
+    "jname": "オルテカの雲衛兵",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_7502cbf61e.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "34",
+    "types": [],
+    "jname": "血滾りの福音者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d9a57f38dd.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "36",
+    "types": [],
+    "jname": "バネ仕掛けの鋸刃",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_1455a56edf.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_4d064e4e48.png"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "41",
+    "types": [],
+    "jname": "不安定な象形橋",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_5acc1e6266.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_79067f79a6.png"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "48",
+    "types": [],
+    "jname": "航路の作成",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_973e766a98.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "50",
+    "types": [],
+    "jname": "困惑の謎掛け",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_9c1d9365db.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "52",
+    "types": [],
+    "jname": "深根の巡礼 ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_bcc9b758e4.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "53",
+    "types": [],
+    "jname": "説教好きな残響",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_fee049aba6.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "mythic",
+    "number": "55",
+    "types": [],
+    "jname": "奇怪な宝石",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_db40176f0d.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_e258e84b9d.png"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "56",
+    "types": [
+      "Land"
+    ],
+    "jname": "永遠溢れの井戸",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_154c883140.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_f6bf8ff94a.png"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "58",
+    "types": [],
+    "jname": "隠遁のオウムガイ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_e71c5acc79.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "63",
+    "types": [],
+    "jname": "魅惑の悪漢、マルコム",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_c3dbc84c13.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "77",
+    "types": [],
+    "jname": "麻痺の歌",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d151022faf.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "78",
+    "types": [],
+    "jname": "遠眼鏡のセイレーン",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_5d084b5342.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "79",
+    "types": [],
+    "jname": "硬骨漢の船員",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_6b9a836499.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "84",
+    "types": [],
+    "jname": "水巻きの偵察",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_e0790c9bfa.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "87",
+    "types": [],
+    "jname": "深淵の暴虐忍び",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_92a00feaa2.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "88",
+    "types": [
+      "Land"
+    ],
+    "jname": "最深の裏切り、アクロゾズ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_03283f0d2c.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_d404bf4052.png"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "92",
+    "types": [],
+    "jname": "アクロゾズの放血者 ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_8138f733f0.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 8.0,
+    "rarity": "rare",
+    "number": "94",
+    "types": [],
+    "jname": "最後の贈り物の運び手",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_e5fb073221.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "95",
+    "types": [],
+    "jname": "同族怒りのマイコイド",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_f8d26476cc.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "102",
+    "types": [],
+    "jname": "大洞窟のコウモリ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_0a1d622410.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "113",
+    "types": [],
+    "jname": "分派の説教者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_04dd0b7e41.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "119",
+    "types": [],
+    "jname": "頭蓋マイマイ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_0f07a3456d.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "120",
+    "types": [],
+    "jname": "魂のとぐろのバイパー",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_c698640e62.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "121",
+    "types": [],
+    "jname": "迷いし者の魂 ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_1a134ed788.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "122",
+    "types": [],
+    "jname": "鍾乳石の追跡者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_cb3e1f20f6.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "126",
+    "types": [
+      "Land"
+    ],
+    "jname": "タリアンの日誌",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_73547be48d.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_1c5cf7d598.png"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "127",
+    "types": [],
+    "jname": "恐怖の潮流",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_5a12f1490a.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "134",
+    "types": [],
+    "jname": "骨集めのドラコサウルス",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_3fac76a905.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "137",
+    "types": [],
+    "jname": "熱心な略奪者、ブリーチェス",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_e2d91b8826.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "145",
+    "types": [],
+    "jname": "凶兆艦隊のフレイル",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_58f6c67b95.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_a11b1d7ce3.png"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "150",
+    "types": [],
+    "jname": "地質鑑定士",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_067d4a35b9.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "152",
+    "types": [],
+    "jname": "黄金憤怒の徘徊者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_dc121e4ef7.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 7.0,
+    "rarity": "rare",
+    "number": "153",
+    "types": [],
+    "jname": "金脈発見",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_86e93f7ef1.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "155",
+    "types": [],
+    "jname": "深淵の王の偶像",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_fc9ba1833c.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_7721385886.png"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "158",
+    "types": [
+      "Land"
+    ],
+    "jname": "最深の力、オヘル・アショニル",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_a5c6bbd85d.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_a36aae5e4b.png"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "161",
+    "types": [],
+    "jname": "叙情的創意",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_63eca50fb4.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "176",
+    "types": [],
+    "jname": "床岩の亀",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_1c6b9521a4.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "178",
+    "types": [],
+    "jname": "陥没穴の偵察",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_e5e5c10b9e.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "179",
+    "types": [],
+    "jname": "ハナグマのあさり屋",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_234aef1168.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "181",
+    "types": [],
+    "jname": "コズミュームの合流点 ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_fa1e18369e.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "184",
+    "types": [],
+    "jname": "探検者の隠し場所",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_2324593570.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 8.0,
+    "rarity": "mythic",
+    "number": "185",
+    "types": [],
+    "jname": "暴走暴君、ガルタ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d3e9c669c8.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "188",
+    "types": [
+      "Land"
+    ],
+    "jname": "イトリモクの成長儀式",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_67d5b6d521.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_6d92e2916d.png"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "189",
+    "types": [],
+    "jname": "統一の詩人、ファートリ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_1d25d834bc.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_f12f66ce42.png"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "193",
+    "types": [],
+    "jname": "剛胆な古生物学者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_6d1a13d899.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "196",
+    "types": [],
+    "jname": "翡翠光の洞窟探検家",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_f2b61e349f.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 7.0,
+    "rarity": "common",
+    "number": "203",
+    "types": [],
+    "jname": "養育する鋸背",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_5981edd130.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "207",
+    "types": [],
+    "jname": "ヤドクガエル",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_29201c1eda.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "208",
+    "types": [],
+    "jname": "好戦的な槌頭",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_69a2a3433a.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 8.0,
+    "rarity": "mythic",
+    "number": "212",
+    "types": [],
+    "jname": "髑髏胞子の結節点",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_8d606021bf.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "213",
+    "types": [],
+    "jname": "洞窟探検",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_b71075a852.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "216",
+    "types": [],
+    "jname": "打ち壊すブロントドン",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_1aac5c1b06.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "219",
+    "types": [],
+    "jname": "祖先の残響、アブエロ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d7d39cfb60.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "221",
+    "types": [],
+    "jname": "アマリア・べナヴィデス・アギーレ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_175b7d0083.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "224",
+    "types": [],
+    "jname": "バルトロメ・デル・プレシディオ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d53d49935a.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "225",
+    "types": [],
+    "jname": "喧嘩腰号",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_c7a35294d3.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "227",
+    "types": [],
+    "jname": "コズミュームの略奪者、風雲船長",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_30d48f6931.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "manaValue": 8.0,
+    "rarity": "mythic",
+    "number": "229",
+    "types": [],
+    "jname": "太陽の化身、ギシャス",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_df3ffcc273.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "231",
+    "types": [],
+    "jname": "勇敢な旅人、ケラン",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_aa5466d50e.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "233",
+    "types": [],
+    "jname": "主の案内壁画",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_f557660fb4.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_c74e8ebac3.png"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "235",
+    "types": [],
+    "jname": "帝王マイコイド",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_2b56092704.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "237",
+    "types": [],
+    "jname": "パラ二の孵化者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_5430bc4b65.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "238",
+    "types": [],
+    "jname": "クイントリウス・カンド",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_a18683a3a3.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "239",
+    "types": [],
+    "jname": "太陽の高揚、サヒーリ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_bf385da259.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "240",
+    "types": [],
+    "jname": "君主のオキネク・アハウ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_2add3c8333.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "242",
+    "types": [],
+    "jname": "大いなる過ち、ウチベンバク",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_7166d26fc8.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "243",
+    "types": [],
+    "jname": "アクロゾズの狂信者、ヴィト",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_fb3666c3f4.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "247",
+    "types": [],
+    "jname": "暴走トロッコ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_b4b5218511.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "252",
+    "types": [],
+    "jname": "発掘現場の保存者",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_34f39e38a6.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "256",
+    "types": [
+      "Land"
+    ],
+    "jname": "大いなる扉、マツァラントリ",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_e1e80fa390.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_25b537aa2b.png"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 1.0,
+    "rarity": "mythic",
+    "number": "257",
+    "types": [],
+    "jname": "千年暦",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_588c43f5e2.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "262",
+    "types": [],
+    "jname": "太陽鳥の権威",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_c6cefae388.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_554803727e.png"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 7.0,
+    "rarity": "rare",
+    "number": "265",
+    "types": [],
+    "jname": "三重の稲妻巨人",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_3a80b77a96.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "266",
+    "types": [],
+    "jname": "不気味な船長の玉座",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_1aaee5641b.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_fae21916fb.png"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "267",
+    "types": [
+      "Land"
+    ],
+    "jname": "宝物の地図",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_724e0dd4c8.png",
+    "backimageurl": "https://media.wizards.com/2023/lci/jp_a76f168c27.png"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "mythic",
+    "number": "269",
+    "types": [
+      "Land"
+    ],
+    "jname": "魂の洞窟",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d70c1e1147.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "270",
+    "types": [
+      "Land"
+    ],
+    "jname": "洞窟めいた大口",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_d2a8bd193b.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "273",
+    "types": [
+      "Land"
+    ],
+    "jname": "隠された瀑布",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_71e8407fcb.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "274",
+    "types": [
+      "Land"
+    ],
+    "jname": "隠された中庭",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_603aec18f7.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "275",
+    "types": [
+      "Land"
+    ],
+    "jname": "隠された死滅都市",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_6d0bee6562.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "276",
+    "types": [
+      "Land"
+    ],
+    "jname": "隠された生育場",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_b2a8ca6f81.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "277",
+    "types": [
+      "Land"
+    ],
+    "jname": "隠された火山",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_46151eae27.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "278",
+    "types": [
+      "Land"
+    ],
+    "jname": "捧げ物の穴",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_160e0ab454.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 0.0,
+    "rarity": "rare",
+    "number": "281",
+    "types": [
+      "Land"
+    ],
+    "jname": "不穏な大草原",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_cd777f7123.png",
+    "backimageurl": null
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "rare",
+    "number": "285",
+    "types": [
+      "Land"
+    ],
+    "jname": "沈んだ城塞",
+    "imageurl": "https://media.wizards.com/2023/lci/jp_4b14c69b86.png",
+    "backimageurl": null
+  }
+]

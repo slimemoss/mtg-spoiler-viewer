@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { Form } from 'react-bootstrap'
 import { MtgCard } from '../data/LTR'
+import { Card } from './Card'
 
 enum SortBy {
   number,
@@ -190,9 +191,7 @@ export const Page = (props: Props) => {
       {
         shown.map((card, i) => (
           <div key={i} style={{margin: '0.2rem'}}>
-            <img src={card.imageurl} loading="lazy"
-                 style={{minWidth: '300px', maxWidth: '100%', height: 'auto'}} />
-            <div style={{textAlign: 'center'}}>{card.jname}</div>
+            <Card card={card}/>
           </div>
         ))
       }
