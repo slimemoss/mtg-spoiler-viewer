@@ -28,6 +28,7 @@ export const Card = (props: Props) => {
       <img src={geturl(card, isFace)} loading="lazy"
            style={{minWidth: '300px', width: '100%', height: 'auto'}} />
       <div style={{display: 'flex'}}>
+        <div style={{fontSize: '70%'}}>{card.number}</div>
         <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
         <div hidden={!hasBack}>
           <Button size="sm" variant="outline-dark"

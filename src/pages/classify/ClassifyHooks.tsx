@@ -56,7 +56,7 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
           return org[0]
         } else {
           const number = (i+1).toString()
-          return {...defaultMtgCard, number, jname: number}
+          return {...defaultMtgCard, number}
         }
       })
 
