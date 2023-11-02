@@ -9,60 +9,34 @@ interface Props {
   card: MtgCard
 }
 
-const CardWithoutBack = (props: Props) => {
+export const Card = (props: Props) => {
   const card = props.card
-
-  return (
-    <>
-      <img src={card.imageurl} loading="lazy"
-           style={{minWidth: '300px', width: '100%', height: 'auto'}} />
-      <div style={{textAlign: 'center'}}>{card.jname}</div>
-    </>
-  )
-}
-
-const CardWithBack = (props: Props) => {
-  const card = props.card
+  const hasBack = card.backimageurl != null
   const [isFace, setIsFace] = React.useState(true)
 
   const geturl = (card: MtgCard, isFace: boolean): string => {
     const fblthp = 'https://mtg-jp.com//img_sys/cardImages/M19/448622/cardimage.png'
     if(isFace) {
       return card.imageurl
+    } else {
+      return card.backimageurl ? card.backimageurl : fblthp
     }
-    if(card.backimageurl) {
-      return card.backimageurl
-    }
-    return fblthp
   }
   
   return (
     <>
       <img src={geturl(card, isFace)} loading="lazy"
-           style={{minWidth: '300px', maxWidth: '100%', height: 'auto'}} />
+           style={{minWidth: '300px', width: '100%', height: 'auto'}} />
       <div style={{display: 'flex'}}>
         <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
-        <div>
-          <Button size="sm" onClick={() => {setIsFace(!isFace)}}>
+        <div hidden={!hasBack}>
+          <Button size="sm" variant="outline-dark"
+                  onClick={() => {setIsFace(!isFace)}}
+                  className="d-flex align-items-center justify-content-center">
             <TbRepeat/>
           </Button>
         </div>
       </div>
     </>
   )
-}
-
-export const Card = (props: Props) => {
-  const card = props.card
-
-  const hasBack = (card: MtgCard): boolean => {
-    return card.backimageurl != null
-  }
-
-  if (hasBack(card)) {
-    return <CardWithBack card={card} />
-  } else {
-    return <CardWithoutBack card={card} />
-  }
-
 }
