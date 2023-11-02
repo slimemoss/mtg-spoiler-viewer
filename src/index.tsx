@@ -2,7 +2,6 @@ import * as React from 'react'
 import { createRoot } from 'react-dom/client'
 import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
-
 import {Page} from './pages'
 import DataLTR from './data/LTR.json'
 import DataWOE from './data/WOE.json'
@@ -16,7 +15,7 @@ const root = createRoot(container)
 root.render(
   <>
     <Helmet
-      title={'エルドレインの森 カードギャラリー | slimemoss'}
+      title={'カードギャラリー | slimemoss'}
     />
 
     <div>
@@ -29,11 +28,11 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="/" element={<Page data={DataLCI} />}/>
-        <Route path="/ltr" element={<Page data={DataLTR} />}/>
-        <Route path="/woe" element={<Page data={DataWOE} />}/>
-        <Route path="/wot" element={<Page data={DataWOT} />}/>
-        <Route path="/lci" element={<Page data={DataLCI} />}/>
+        <Route path="/" element={<Page data={DataLCI} setName="イクサラン：失われし洞窟" />}/>
+        <Route path="/ltr" element={<Page data={DataLTR} setName="" />}/>
+        <Route path="/woe" element={<Page data={DataWOE} setName="" />}/>
+        <Route path="/wot" element={<Page data={DataWOT} setName="" />}/>
+        <Route path="/lci" element={<Page data={DataLCI} setName="イクサラン：失われし洞窟" />}/>
       </Routes>
     </HashRouter>
   </>,
