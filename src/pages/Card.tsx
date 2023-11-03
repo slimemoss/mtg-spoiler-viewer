@@ -31,7 +31,7 @@ export const Card = (props: Props) => {
         <div style={{fontSize: '70%'}}>{card.number}</div>
         <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
         <div hidden={!hasBack}>
-          <Button size="sm" variant="outline-dark"
+          <Button size="sm"
                   onClick={() => {setIsFace(!isFace)}}
                   className="d-flex align-items-center justify-content-center">
             <TbRepeat/>
