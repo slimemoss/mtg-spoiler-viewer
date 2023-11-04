@@ -16,11 +16,16 @@ export const Card = (props: Props) => {
 
   const geturl = (card: MtgCard, isFace: boolean): string => {
     const fblthp = 'https://mtg-jp.com//img_sys/cardImages/M19/448622/cardimage.png'
+    var url = fblthp
     if(isFace) {
-      return card.imageurl
+      url = card.imageurl
     } else {
-      return card.backimageurl ? card.backimageurl : fblthp
+      url = card.backimageurl ? card.backimageurl : fblthp
     }
+
+    const fname = url.split('/').slice(-1)[0]
+    const base = 'https://raw.githubusercontent.com/slimemoss/mtg-spoiler-viewer/master/src/image/card/'
+    return base + fname
   }
   
   return (
