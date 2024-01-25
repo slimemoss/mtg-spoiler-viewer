@@ -79,6 +79,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "7",
+    "types": [],
+    "jname": "事件簿の監査人",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_6270b0bf97.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "8",
@@ -176,6 +189,19 @@
     "types": [],
     "jname": "古代の化身",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_aab4c509f6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "16",
+    "types": [],
+    "jname": "広場の使い魔",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_704d75a176.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -358,6 +384,19 @@
     "types": [],
     "jname": "遂行中",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_225293703f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "31",
+    "types": [],
+    "jname": "捜査線の執行者",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_db532b7e0c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -887,6 +926,19 @@
     ],
     "manaValue": 4.0,
     "rarity": "uncommon",
+    "number": "72",
+    "types": [],
+    "jname": "唐突な後戻り",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_cf2a53145b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
     "number": "73",
     "types": [],
     "jname": "偵察監視員",
@@ -1080,6 +1132,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "88",
+    "types": [],
+    "jname": "無法の仮面舞踏会",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_48c259a3c4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 5.0,
     "rarity": "uncommon",
     "number": "89",
@@ -1099,6 +1164,19 @@
     "types": [],
     "jname": "鉛パイプ",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_a87adb205a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "91",
+    "types": [],
+    "jname": "抜け目ない見物人",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_7afb9ab920.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1255,6 +1333,19 @@
     "types": [],
     "jname": "闇討ち",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_0b8412c454.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "104",
+    "types": [],
+    "jname": "ぬめる双頭ヒル",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_ccb99137e6.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2055,6 +2146,19 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "166",
+    "types": [],
+    "jname": "自然な溶け込み",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_f68e750291.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 5.0,
     "rarity": "uncommon",
     "number": "167",
@@ -2597,6 +2701,20 @@
   },
   {
     "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "207",
+    "types": [],
+    "jname": "間の悪い爆発",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_1cb56486cd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "B",
       "G"
     ],
@@ -2898,6 +3016,20 @@
   {
     "colorIdentity": [
       "B",
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "229",
+    "types": [],
+    "jname": "ルーン印の曲芸者",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_ca6ffb5cb5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
       "W"
     ],
     "manaValue": 3.0,
@@ -3107,6 +3239,20 @@
   },
   {
     "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "245",
+    "types": [],
+    "jname": "古き神々の咆哮、ヤラス",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_5512db05bb.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "B",
       "G",
       "W"
@@ -3147,6 +3293,21 @@
     "types": [],
     "jname": "空騒ぎ // 大騒ぎ",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_170d2ebdf0.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "manaValue": 7.0,
+    "rarity": "uncommon",
+    "number": "249",
+    "types": [],
+    "jname": "押し合い // 圧し合い",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_73737c149a.png",
     "backimageurl": null,
     "layout": "split"
   },
