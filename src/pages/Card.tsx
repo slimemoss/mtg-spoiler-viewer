@@ -22,13 +22,13 @@ export const Card = (props: Props) => {
   const [showModal, setShowModal] = React.useState(false)
 
   const geturl = (card: MtgCard, isFace: boolean): string => {
-    const fblthp = 'https://mtg-jp.com//img_sys/cardImages/M19/448622/cardimage.png'
+    const fblthp = 'https://cards.scryfall.io/large/front/c/3/c36f01a5-82bf-4fc6-9396-4410067c351b.jpg?1702429424'
 
     const url = isFace ? card.imageurl : (card.backimageurl ? card.backimageurl : '')
     if (url == '') {
       return fblthp
     }
-    if (url == 'https://i.imgur.com/cI9uGt2.jpeg') {
+    if (url == 'https://cards.scryfall.io/back.png') {
       return url
     }
 

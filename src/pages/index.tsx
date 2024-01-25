@@ -25,8 +25,9 @@ export const Page = (props: Props) => {
     />
     
     <div style={{fontSize: '150%', padding: '2rem'}}>
-      公式ギャラリーに掲載されているカードのみ表示しています。
+      公式ギャラリーとscryfallに掲載されているカードのみ表示しています。
       未掲載のカードは裏側の画像が表示されます。
+      (1/25 11:00更新)
     </div>
 
     <Classify config={config} hooks={classifyHooks}/>

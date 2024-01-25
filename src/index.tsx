@@ -17,8 +17,7 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="/" element={<Page data={Data} setName="カルロフ邸殺人事件" />}/>
-        <Route path="/mkm" element={<Page data={Data} setName="カルロフ邸殺人事件" />}/>
+        <Route path="*" element={<Page data={Data} setName="カルロフ邸殺人事件" />}/>
       </Routes>
     </HashRouter>
   </>,

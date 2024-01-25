@@ -352,6 +352,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "30",
+    "types": [],
+    "jname": "遂行中",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_225293703f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "32",
@@ -625,6 +638,19 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "53",
+    "types": [],
+    "jname": "大胆な告発",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_43eee84b33.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "54",
@@ -833,6 +859,19 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "70",
+    "types": [],
+    "jname": "犯行現場の再現",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_4caf721cac.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 3.0,
     "rarity": "rare",
     "number": "71",
@@ -852,6 +891,19 @@
     "types": [],
     "jname": "偵察監視員",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_247b144ec5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "74",
+    "types": [],
+    "jname": "許可なき脱出",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_7da1a8013d.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1093,6 +1145,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "95",
+    "types": [],
+    "jname": "殺害",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_f878a2d893.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 4.0,
     "rarity": "uncommon",
     "number": "96",
@@ -1186,6 +1251,19 @@
     ],
     "manaValue": 1.0,
     "rarity": "common",
+    "number": "103",
+    "types": [],
+    "jname": "闇討ち",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_0b8412c454.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
     "number": "105",
     "types": [],
     "jname": "うなる大殺犬",
@@ -1262,6 +1340,19 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "111",
+    "types": [],
+    "jname": "アンズラグの猛威",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_e7f9559318.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 6.0,
     "rarity": "uncommon",
     "number": "112",
@@ -1307,6 +1398,19 @@
     "types": [],
     "jname": "現行犯",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_84d4c00f08.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "116",
+    "types": [],
+    "jname": "追走劇の始まり",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_aec740ba59.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1769,6 +1873,19 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "152",
+    "types": [],
+    "jname": "トロスターニへの御目通り",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_a9e3c46ebd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 4.0,
     "rarity": "rare",
     "number": "153",
@@ -2101,6 +2218,19 @@
     "types": [],
     "jname": "装飾庭園の豹",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_9160f8333f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "180",
+    "types": [],
+    "jname": "トンネルの情報提供者",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_e8eece6539.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2638,6 +2768,23 @@
   },
   {
     "colorIdentity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "220",
+    "types": [],
+    "jname": "ギルドパクト、ニヴ＝ミゼット",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_758b09ec8a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "U",
       "W"
     ],
@@ -2941,6 +3088,20 @@
     "types": [],
     "jname": "たなびき飲みの吸血鬼",
     "imageurl": "https://media.wizards.com/2024/mkm/jp_eb3b37e421.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "244",
+    "types": [],
+    "jname": "世界魂の憤怒",
+    "imageurl": "https://media.wizards.com/2024/mkm/jp_c1c155ba3f.png",
     "backimageurl": null,
     "layout": "normal"
   },
