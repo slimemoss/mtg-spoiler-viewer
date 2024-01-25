@@ -1,40 +1,57 @@
 import * as React from 'react'
 
 import Button from 'react-bootstrap/Button'
+import Modal from 'react-bootstrap/Modal'
 import { TbRepeat } from 'react-icons/tb'
+import { AiOutlineRotateRight } from "react-icons/ai"
+import {isMobile} from 'react-device-detect'
 
 import { MtgCard } from '../data/LTR'
 
 interface Props {
   card: MtgCard
+  count: number
 }
 
 export const Card = (props: Props) => {
   const card = props.card
   const hasBack = card.backimageurl != null
+  const isSplit = card.layout == 'split'
+
   const [isFace, setIsFace] = React.useState(true)
+  const [showModal, setShowModal] = React.useState(false)
 
   const geturl = (card: MtgCard, isFace: boolean): string => {
     const fblthp = 'https://mtg-jp.com//img_sys/cardImages/M19/448622/cardimage.png'
-    var url = fblthp
-    if(isFace) {
-      url = card.imageurl
-    } else {
-      url = card.backimageurl ? card.backimageurl : fblthp
+
+    const url = isFace ? card.imageurl : (card.backimageurl ? card.backimageurl : '')
+    if (url == '') {
+      return fblthp
+    }
+    if (url == 'https://i.imgur.com/cI9uGt2.jpeg') {
+      return url
     }
 
     const fname = url.split('/').slice(-1)[0]
-    const base = 'https://raw.githubusercontent.com/slimemoss/mtg-spoiler-viewer/master/src/image/card/'
-    return base + fname
+    return './dist/image/card/' + fname + '.webp'
   }
   
   return (
     <>
-      <img src={geturl(card, isFace)} loading="lazy"
+      <img src={geturl(card, isFace)}
            style={{minWidth: '300px', width: '100%', height: 'auto'}} />
+
+      <Modal show={showModal} onHide={() => setShowModal(!showModal)} style={{transform: 'rotate(0deg)'}}>
+        <Modal.Body style={{transform: 'rotate(90deg) translate(-20%)'}}>
+          <img src={geturl(card, isFace)}
+               style={{minWidth: '300px', width: '100%', height: 'auto'}} />
+        </Modal.Body>
+      </Modal>
+
       <div style={{display: 'flex'}}>
-        <div style={{fontSize: '70%'}}>{card.number}</div>
+        <div style={{fontSize: '70%'}}>{props.count}</div>
         <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
+
         <div hidden={!hasBack}>
           <Button size="sm"
                   onClick={() => {setIsFace(!isFace)}}
@@ -42,6 +59,15 @@ export const Card = (props: Props) => {
             <TbRepeat/>
           </Button>
         </div>
+
+        <div hidden={!isSplit || isMobile}>
+          <Button size="sm"
+                  onClick={() => {setShowModal(!showModal)}}
+                  className="d-flex align-items-center justify-content-center">
+            <AiOutlineRotateRight />
+          </Button>
+        </div>
+        
       </div>
     </>
   )

@@ -31,12 +31,12 @@ export const Page = (props: Props) => {
       gridTemplateColumns: 'repeat(auto-fill,minmax(300px, 1fr))'}}>
       {shown.map((card, i) => (
         <div key={i} style={{margin: '0.2rem'}}>
-          <Card card={card}/>
+          <Card card={card} count={i + 1} />
         </div>
       ))}
     </div>
 
-    <footer>
+    <footer style={{marginTop: '5rem', padding: '1rem'}}>
       本サイトはファンコンテンツ・ポリシーに沿った非公式のファンコンテンツです。ウィザーズ社の認可/許諾は得ていません。題材の一部に、ウィザーズ・オブ・ザ・コースト社の財産を含んでいます。©Wizards of the Coast LLC.
     </footer>
   </>)

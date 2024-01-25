@@ -7,6 +7,7 @@ export interface MtgCard {
   jname: string,
   imageurl: string,
   backimageurl?: string | null,
+  layout?: string | null
 }
 
 declare module '~/data/LTR.json' {
