@@ -16,6 +16,9 @@ export const Page = (props: Props) => {
   const [shown, setShown] = React.useState<MtgCard[]>(props.data)
   const wating = useDelay(200)
 
+  //スマホ表示のための分割描写
+  const displayDiv: number = 20
+
   React.useEffect(() => {
     let c = classifyHooks.classify(props.data)
     setShown(c)
@@ -36,14 +39,14 @@ export const Page = (props: Props) => {
     <div style={{
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fill,minmax(300px, 1fr))'}}>
-      {shown.slice(0, 20).map((card, i) => (
+      {shown.slice(0, displayDiv).map((card, i) => (
         <div key={i} style={{margin: '0.2rem'}}>
           <Card card={card} count={i + 1} />
         </div>
       ))}
-      {!wating && shown.slice(20).map((card, i) => (
+      {!wating && shown.slice(displayDiv).map((card, i) => (
         <div key={i} style={{margin: '0.2rem'}}>
-          <Card card={card} count={i + 21} />
+          <Card card={card} count={i + displayDiv + 1} />
         </div>
       ))}
     </div>

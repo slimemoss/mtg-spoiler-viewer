@@ -1,0 +1,72 @@
+[
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "3",
+    "types": [],
+    "jname": "オルテカの現象織り",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_fc41f4aae1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 7.0,
+    "rarity": "mythic",
+    "number": "20",
+    "types": [],
+    "jname": "宝物庫生まれの暴君",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_aa58893dbe.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "number": "25",
+    "types": [],
+    "jname": "適合の結節点",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_656ba9b62c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "26",
+    "types": [],
+    "jname": "富と力の剣",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_2ffdd7aa15.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "27",
+    "types": [],
+    "jname": "倦怠の宝珠",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_ad8984867d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "28",
+    "types": [],
+    "jname": "変成の泉",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_d8554ee766.png",
+    "backimageurl": null,
+    "layout": "normal"
+  }
+]
