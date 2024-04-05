@@ -3,12 +3,246 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "1",
+    "types": [],
+    "jname": "収集家の檻",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_244d2c0ab4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "2",
+    "types": [],
+    "jname": "堂々たる撤廃者",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_0392ffe988.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 3.0,
     "rarity": "mythic",
     "number": "3",
     "types": [],
     "jname": "オルテカの現象織り",
     "imageurl": "https://media.wizards.com/2024/otj/jp_fc41f4aae1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "4",
+    "types": [],
+    "jname": "安らかなる眠り",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_daf5955280.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "5",
+    "types": [],
+    "jname": "秘密の複製機",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_62fe2f2382.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "6",
+    "types": [],
+    "jname": "身代わり合成機",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_7f5b9dfad9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "7",
+    "types": [],
+    "jname": "世界歩きの兜",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_ec480e3078.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "8",
+    "types": [],
+    "jname": "強欲の計略",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_8be6b25603.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "9",
+    "types": [],
+    "jname": "苦難の収穫者",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_3593d6eb70.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "10",
+    "types": [],
+    "jname": "敵意ある調査員",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_4c88efc779.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "11",
+    "types": [],
+    "jname": "気前のいい略取者",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_715cef5888.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "12",
+    "types": [],
+    "jname": "軍団の成形機械",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_031040275b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "13",
+    "types": [],
+    "jname": "記憶の器",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_d2f93017e1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "14",
+    "types": [],
+    "jname": "溶鉄の複製",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_36c72f4df4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "15",
+    "types": [],
+    "jname": "領土の溶鉱炉",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_e7190f6b12.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "16",
+    "types": [],
+    "jname": "古のヤギ角",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_364eced436.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "17",
+    "types": [],
+    "jname": "逆棘芽の農家",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_f3d16ef417.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "18",
+    "types": [],
+    "jname": "領界路への旅",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_bc4a1f8ccc.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "19",
+    "types": [],
+    "jname": "砂嵐の回収者",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_f4c7d4f029.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -22,6 +256,57 @@
     "types": [],
     "jname": "宝物庫生まれの暴君",
     "imageurl": "https://media.wizards.com/2024/otj/jp_aa58893dbe.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "21",
+    "types": [],
+    "jname": "全ての鍵、おたから",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_7e1db2d811.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "22",
+    "types": [],
+    "jname": "害獣駆除",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_940241284d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 1.0,
+    "rarity": "mythic",
+    "number": "23",
+    "types": [],
+    "jname": "失われた十手",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_5081ffcb29.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "24",
+    "types": [],
+    "jname": "睡蓮の指輪",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_25f3138e9b.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -66,6 +351,32 @@
     "types": [],
     "jname": "変成の泉",
     "imageurl": "https://media.wizards.com/2024/otj/jp_d8554ee766.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "mythic",
+    "number": "29",
+    "types": [
+      "Land"
+    ],
+    "jname": "フォモーリの宝物庫",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_9dae8b4703.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "mythic",
+    "number": "30",
+    "types": [
+      "Land"
+    ],
+    "jname": "破滅の眺望",
+    "imageurl": "https://media.wizards.com/2024/otj/jp_3fdccc46b4.png",
     "backimageurl": null,
     "layout": "normal"
   }

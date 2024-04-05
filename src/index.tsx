@@ -19,7 +19,7 @@ root.render(
     <div>
       <ul>
         <li><a href="#/">サンダー・ジャンクションの無法者 (OTJ)</a></li>
-        <li hidden={true}><a href="#/big">サンダー・ジャンクションの無法者 ビッグスコア (BIG)</a></li>
+        <li><a href="#/big">サンダー・ジャンクションの無法者 ビッグスコア (BIG)</a></li>
       </ul>
     </div>
 
