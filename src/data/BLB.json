@@ -1,0 +1,2762 @@
+[
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "1",
+    "types": [],
+    "jname": "払拭の光",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_dedbd4e663.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "2",
+    "types": [],
+    "jname": "跳ねる春、ベーザ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_516f021532.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "3",
+    "types": [],
+    "jname": "勇敢族の二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_7d56ffbe68.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "4",
+    "types": [],
+    "jname": "輝き刃のオコジョ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_34480d1076.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "7",
+    "types": [],
+    "jname": "人参ケーキ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_40d94df9e8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "9",
+    "types": [],
+    "jname": "薄暮の休戦",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e2a24b4857.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "10",
+    "types": [],
+    "jname": "露滴療法",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_9b97ae4942.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "11",
+    "types": [],
+    "jname": "漂い影のコヨーテ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_121729b641.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "13",
+    "types": [],
+    "jname": "飛行の羽",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5e1284c867.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "14",
+    "types": [],
+    "jname": "花足の剣豪",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2c89c85dd6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "15",
+    "types": [],
+    "jname": "収穫の儀式の幹事",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d17f4aecaa.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "16",
+    "types": [],
+    "jname": "跳び込め",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b6758bcafc.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "18",
+    "types": [],
+    "jname": "コクマルガラスの救済者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1dbebdb982.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "20",
+    "types": [],
+    "jname": "一生の絆の二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1164acfa71.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "21",
+    "types": [],
+    "jname": "メイブルの血気",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_81ffd98499.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "22",
+    "types": [],
+    "jname": "ハツカネズミの罠師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a979a411d5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "23",
+    "types": [],
+    "jname": "イラクサの護衛",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_086cbbdbd4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "24",
+    "types": [],
+    "jname": "お別れの突風",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_9d47066af2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "25",
+    "types": [],
+    "jname": "鶏冠の供給者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_8c709ef071.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "26",
+    "types": [],
+    "jname": "迅足対応",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_764e223a27.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "27",
+    "types": [],
+    "jname": "災厄の追い返し",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1ba08f7491.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "28",
+    "types": [],
+    "jname": "救済の白鳥",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a70a2e44d8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "29",
+    "types": [],
+    "jname": "巣ごもりの季節",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_217a2d192b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "30",
+    "types": [],
+    "jname": "歴戦の巣穴守り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_28542e782c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "31",
+    "types": [],
+    "jname": "百舌部隊",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d3f3683ca1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "33",
+    "types": [],
+    "jname": "星図師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b57e719e3b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "34",
+    "types": [],
+    "jname": "落星の祈祷",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a77750a968.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "35",
+    "types": [],
+    "jname": "シスルダウンの演者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_991f92edfe.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "36",
+    "types": [],
+    "jname": "渓間の冒険呼び",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_68f5a37ee6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "37",
+    "types": [],
+    "jname": "巣穴の長老",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fccd6267ee.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "38",
+    "types": [],
+    "jname": "巣穴の戦導者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_90ba41c5ad.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "39",
+    "types": [],
+    "jname": "満ち欠けの証人",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2eaf448256.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "40",
+    "types": [],
+    "jname": "髭谷の先駆け",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3f7b6af937.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "42",
+    "types": [],
+    "jname": "吼える叫び屋",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d6c336c1d0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "43",
+    "types": [],
+    "jname": "破滅的な大潮",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a505d00707.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "44",
+    "types": [],
+    "jname": "果敢な波乗り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_bbc7a38f02.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "47",
+    "types": [],
+    "jname": "陰気な港魔道士",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_24877cfe4f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "50",
+    "types": [],
+    "jname": "スズメの陣形",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_8546893a67.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "51",
+    "types": [],
+    "jname": "噂好きの才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0d1e2bb6bc.png",
+    "backimageurl": null,
+    "layout": "class"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "52",
+    "types": [],
+    "jname": "洪水の大口へ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_55093ff68a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "53",
+    "types": [],
+    "jname": "仔狸寝入り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d7d4886dc0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "mythic",
+    "number": "54",
+    "types": [],
+    "jname": "カワウソボールの精鋭、キッツァ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d05f31457f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "55",
+    "types": [],
+    "jname": "カワセミの騎士",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4b83cda52f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "56",
+    "types": [],
+    "jname": "輝き殻の二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d681263684.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "57",
+    "types": [],
+    "jname": "長川に潜むもの",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_70114b7abc.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "58",
+    "types": [],
+    "jname": "長川の引き込み",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_36230d7771.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "59",
+    "types": [],
+    "jname": "精神のらせん",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_9af302ff36.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "60",
+    "types": [],
+    "jname": "精神をかき混ぜる者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_692009f663.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "61",
+    "types": [],
+    "jname": "マネドリ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_7432225913.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "62",
+    "types": [],
+    "jname": "夜渦の隠遁者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4b8218de1f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "63",
+    "types": [],
+    "jname": "カワウソボールの悪ふざけ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f6f399aa6e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "64",
+    "types": [],
+    "jname": "知識の真珠",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_60b0f2b9bd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "65",
+    "types": [],
+    "jname": "羽信隊の随員",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_13e1b48f91.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "67",
+    "types": [],
+    "jname": "共に逃走",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e747edd1fa.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "number": "68",
+    "types": [],
+    "jname": "機織りの季節",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_63d77c7d7f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "70",
+    "types": [],
+    "jname": "川岸の物あさり",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_047248ea66.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "73",
+    "types": [],
+    "jname": "水飛沫の殴打者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_21ffc6ac40.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "74",
+    "types": [],
+    "jname": "水飛沫の門",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c411fd4b11.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "76",
+    "types": [],
+    "jname": "菓子化",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c720f2e8af.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "77",
+    "types": [],
+    "jname": "思考をかち割る者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_25199f971d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "78",
+    "types": [],
+    "jname": "稲妻罠の教練者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_707c4cf6cb.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "79",
+    "types": [],
+    "jname": "渓間の洪水呼び",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fe48496ea8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "80",
+    "types": [],
+    "jname": "竜巻の番人",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_9249d38031.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "81",
+    "types": [],
+    "jname": "願いの井戸",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c2ad15d25b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "83",
+    "types": [],
+    "jname": "山賊の才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_7672e1e2f9.png",
+    "backimageurl": null,
+    "layout": "class"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "85",
+    "types": [],
+    "jname": "骨蓄えの監視者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_41a98589f6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "87",
+    "types": [],
+    "jname": "貪る欲望",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_6d0ce942e3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "90",
+    "types": [],
+    "jname": "暗黒星の占い師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4664212dde.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "91",
+    "types": [],
+    "jname": "不吉見",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c1fbff2b86.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "92",
+    "types": [],
+    "jname": "風下の伏兵",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a28b4e3da3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "93",
+    "types": [],
+    "jname": "初冬",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a292e377a6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "94",
+    "types": [],
+    "jname": "循環への給餌",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_61415c2cbb.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "95",
+    "types": [],
+    "jname": "討伐",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ad89de971a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "96",
+    "types": [],
+    "jname": "滑空降下の二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_8ac9802a1c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "97",
+    "types": [],
+    "jname": "ヘイゼルの夜想曲",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c3a7f20165.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 8.0,
+    "rarity": "uncommon",
+    "number": "98",
+    "types": [],
+    "jname": "鞘破りの群れ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a52cb075c8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "99",
+    "types": [],
+    "jname": "玉虫色の蔦打ち",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2e2c89b572.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "100",
+    "types": [],
+    "jname": "羽の夜のマーハ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fe051b2d92.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "101",
+    "types": [],
+    "jname": "月の石の先触れ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_33e67ae499.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "102",
+    "types": [],
+    "jname": "夜の飢え",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ca21c0c9f5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "103",
+    "types": [],
+    "jname": "骨術師の達人",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a1f14a45ed.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "104",
+    "types": [],
+    "jname": "しつこい湿地忍び",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_00e321359f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "number": "107",
+    "types": [],
+    "jname": "腐敗口のバイパー",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_56e628b48b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "108",
+    "types": [],
+    "jname": "無情な交渉",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c27e2219a8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "110",
+    "types": [],
+    "jname": "泥岩の鱗",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0755be4cdf.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "112",
+    "types": [],
+    "jname": "損失の季節",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b14c3ba3b2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "113",
+    "types": [],
+    "jname": "不吉なモノリス",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_403495fb6c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "114",
+    "types": [],
+    "jname": "星眼",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_42903a66c2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "115",
+    "types": [],
+    "jname": "星明かりの真言者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_caa58e4a9b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "117",
+    "types": [],
+    "jname": "茨鎧の威嚇者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0845b25d08.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "118",
+    "types": [],
+    "jname": "思考忍びの邪術師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_79aca14aec.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "119",
+    "types": [],
+    "jname": "渓間の腐敗呼び",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_aca7d36020.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "120",
+    "types": [],
+    "jname": "渦巻く精神、ウィック",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f0762effc9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "121",
+    "types": [],
+    "jname": "ウィックの巡回兵",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c4f300c818.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "122",
+    "types": [],
+    "jname": "瑪瑙の落石",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_601ddf98a3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "123",
+    "types": [],
+    "jname": "アラニアの道拓き",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3222309d25.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "124",
+    "types": [],
+    "jname": "美術家の才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a2051a82e5.png",
+    "backimageurl": null,
+    "layout": "class"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "125",
+    "types": [],
+    "jname": "鍛冶の才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a83880b082.png",
+    "backimageurl": null,
+    "layout": "class"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "127",
+    "types": [],
+    "jname": "茨守りの隊長",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b651f8ed89.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "128",
+    "types": [],
+    "jname": "厚顔な収集者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1595785a47.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "129",
+    "types": [],
+    "jname": "裏道の交換者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2be5d56ab5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "130",
+    "types": [],
+    "jname": "電気の伝導",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f2ba7a5ef1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "131",
+    "types": [],
+    "jname": "光輝の魔道士",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3d4d9f7aad.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "133",
+    "types": [],
+    "jname": "電気の伝導",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f05fef4d79.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "136",
+    "types": [],
+    "jname": "エリマキ火花撃ち",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5d16f4540d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "137",
+    "types": [],
+    "jname": "嵐を従える者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_667df4e0fe.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "138",
+    "types": [],
+    "jname": "心火の英雄",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4757a3351b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "139",
+    "types": [],
+    "jname": "かまど生まれの戦闘家",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_194b246d18.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "140",
+    "types": [],
+    "jname": "雇われ爪",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a55c9b5592.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "141",
+    "types": [],
+    "jname": "貯め込み屋の流出",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_dae9d8a660.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "142",
+    "types": [],
+    "jname": "焚き火花の二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4df62da8a0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "143",
+    "types": [],
+    "jname": "多様な鼠",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_add1d6b67a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "144",
+    "types": [],
+    "jname": "弱者の力",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2abb456eb9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "146",
+    "types": [],
+    "jname": "地震牙の猪",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_95d5e8be75.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "149",
+    "types": [],
+    "jname": "爬虫類の徴募兵",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_262c8ef36c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "152",
+    "types": [],
+    "jname": "勇者の季節",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d37db95c68.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "153",
+    "types": [],
+    "jname": "蒸気道の突撃者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a5231b18d7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "154",
+    "types": [],
+    "jname": "嵐を断つ者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0c5e425a4c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "155",
+    "types": [],
+    "jname": "陽背骨のオオヤマネコ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fa47581585.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "156",
+    "types": [],
+    "jname": "ポイ捨て",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2983650d43.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "159",
+    "types": [],
+    "jname": "渓間の結集",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_dd874e672f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "160",
+    "types": [],
+    "jname": "戦の囀り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_aadabc82a3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "161",
+    "types": [],
+    "jname": "髭羽ペンの書記官",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_47b62831c0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "163",
+    "types": [],
+    "jname": "渓間の結集",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_77766988e1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "164",
+    "types": [],
+    "jname": "幹拳の拳闘家",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_84b06116cf.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "165",
+    "types": [],
+    "jname": "茨守りの古参兵",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_32aefd10f0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "166",
+    "types": [],
+    "jname": "毛むくじゃらのボディガード",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5881aa17e8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "167",
+    "types": [],
+    "jname": "蓄え放題",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c3a365a79c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "168",
+    "types": [],
+    "jname": "断崖の見張り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_326392aba0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "169",
+    "types": [],
+    "jname": "好奇心旺盛な餌あさり",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_62f2014e2c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "170",
+    "types": [],
+    "jname": "鋤のドルイド",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_33624a979d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "172",
+    "types": [],
+    "jname": "共通の利益のために",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d87608d45f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "173",
+    "types": [],
+    "jname": "烈風のヘラジカ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_bffaaa21de.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "174",
+    "types": [],
+    "jname": "危険根の薬草医",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_db4d5e1cf5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "177",
+    "types": [],
+    "jname": "巣背骨のクズリ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f95bd77506.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "179",
+    "types": [],
+    "jname": "狩人の才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f1f624e8b4.png",
+    "backimageurl": null,
+    "layout": "class"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "180",
+    "types": [],
+    "jname": "亭主の才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_6c96954e25.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "181",
+    "types": [],
+    "jname": "鋭い目の管理者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c5498d9dc0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "182",
+    "types": [],
+    "jname": "長茎の乱闘",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2d8d2acac6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "number": "183",
+    "types": [],
+    "jname": "森の轟き、ルムラ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5db38326f0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "184",
+    "types": [],
+    "jname": "霧息吹の古老",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_84d9982ad2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "185",
+    "types": [],
+    "jname": "過剰防衛",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_02577d9cb5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "186",
+    "types": [],
+    "jname": "脚当ての陣形",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1d36e7d504.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "187",
+    "types": [],
+    "jname": "脚当ての補充兵",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c4e5f298d3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "188",
+    "types": [],
+    "jname": "無双の再利用",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ccbe3a7f14.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "189",
+    "types": [],
+    "jname": "オタマジャクシパンチ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2c47990b15.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "190",
+    "types": [],
+    "jname": "錆び盾の暴行者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fc472143b4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "number": "192",
+    "types": [],
+    "jname": "集会の季節",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fe30c5baf5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "193",
+    "types": [],
+    "jname": "くっつき舌の歩哨",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c9539ea40d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "195",
+    "types": [],
+    "jname": "天気雨のドルイド",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_30e4f76d84.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "196",
+    "types": [],
+    "jname": "耕作する高原導き",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e902d269b8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "197",
+    "types": [],
+    "jname": "茨越えの餌あさり",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3c2b8876ec.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "199",
+    "types": [],
+    "jname": "三本木の書記官",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2f677e2a2f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "200",
+    "types": [],
+    "jname": "樹守りの二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d5b35e8d1c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "201",
+    "types": [],
+    "jname": "樹上の哨兵",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d62d7b1e4a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "202",
+    "types": [],
+    "jname": "渓間の怪力呼び",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b601bd5990.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "203",
+    "types": [],
+    "jname": "削弱",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_44dd37d781.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "204",
+    "types": [],
+    "jname": "分岐する嵐、アラニア",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_325c91d9dd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "205",
+    "types": [],
+    "jname": "刈り手、ベイレン",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fa6cb61695.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "206",
+    "types": [],
+    "jname": "穴ぐら守りの導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0e4af93511.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "207",
+    "types": [],
+    "jname": "種選奴、カメリア",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_8f0c94e065.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "208",
+    "types": [],
+    "jname": "燻る殺し屋",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a298aee150.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "209",
+    "types": [],
+    "jname": "心配潮、クレメント",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1a59a537fe.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "210",
+    "types": [],
+    "jname": "屍苺の耕作者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4955e76f05.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "211",
+    "types": [],
+    "jname": "夢露の幻惑者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_44432cda00.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "212",
+    "types": [],
+    "jname": "腕利きの射手、フィ二アス",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_a50f2e8a33.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "213",
+    "types": [],
+    "jname": "火硝子の導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_d923bb856b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "215",
+    "types": [],
+    "jname": "災厄の占い師、グラルブ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_f083385257.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "216",
+    "types": [],
+    "jname": "住居の長",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c52d4afee7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "217",
+    "types": [],
+    "jname": "神経質な予見者、ヘルガ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fd7f6bf755.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "218",
+    "types": [],
+    "jname": "忌まわしい守護獣、ハグス",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_218062aa1c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "219",
+    "types": [],
+    "jname": "悪名高い残虐爪",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fad135c087.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "220",
+    "types": [],
+    "jname": "屑鉄刃の暴れ者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_cd579416bd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "221",
+    "types": [],
+    "jname": "風冠の者、ケストラル",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e61bd55b4c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "222",
+    "types": [],
+    "jname": "蓮葉跳びの導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_4041914836.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "223",
+    "types": [],
+    "jname": "月の集会",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_15657a3a4f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "224",
+    "types": [],
+    "jname": "岩山炎の後継者、メイブル",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_47f9183522.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "225",
+    "types": [],
+    "jname": "精神掘りの通り魔",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_7592e339c5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "226",
+    "types": [],
+    "jname": "月の出の僧侶",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c53b3ee89e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "227",
+    "types": [],
+    "jname": "ゴミの策略家、ムエラ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2738bbc7c2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "228",
+    "types": [],
+    "jname": "羽信隊の導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_945b249e76.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "229",
+    "types": [],
+    "jname": "池の預言者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2b5c973075.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "mythic",
+    "number": "230",
+    "types": [],
+    "jname": "轟く機知、ラル",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_6595210f75.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "231",
+    "types": [],
+    "jname": "豆殻刀の導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e1be8edfda.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "232",
+    "types": [],
+    "jname": "豆殻の従者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_8ffb617935.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "233",
+    "types": [],
+    "jname": "星見の導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3fb0f45eab.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "234",
+    "types": [],
+    "jname": "嵐捕りの導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_81202df85c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "235",
+    "types": [],
+    "jname": "大嵐の釣り人",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5770f07caa.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "236",
+    "types": [],
+    "jname": "潮呼びの導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3dce827545.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "237",
+    "types": [],
+    "jname": "古参の護衛鼠",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_701fd067ed.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "238",
+    "types": [],
+    "jname": "蔦刈りの導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_afe846b698.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "239",
+    "types": [],
+    "jname": "情け知らずのヴレン",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e02ff5f35a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "240",
+    "types": [],
+    "jname": "放浪語りの導師",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ef76ae6add.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "241",
+    "types": [],
+    "jname": "全てを喰らうもの、イグラ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_83e5edeb3e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "242",
+    "types": [],
+    "jname": "星界を呼ぶ者、ゾラリーネ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_fdd807bcb6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "243",
+    "types": [],
+    "jname": "樹皮形態の収穫者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_82ab4e1dff.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "244",
+    "types": [],
+    "jname": "バンブルフラワー夫人の大鍋",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_bbe406ea1e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "245",
+    "types": [],
+    "jname": "噴水港の鐘",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3eef6a7e5c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "247",
+    "types": [],
+    "jname": "縫い合わせの旗",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_736ba7d5dc.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "251",
+    "types": [],
+    "jname": "三本木のマスコット",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ca22b642c8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "rare",
+    "number": "252",
+    "types": [
+      "Land"
+    ],
+    "jname": "寓話の小道",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ca109eba31.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "254",
+    "types": [
+      "Land"
+    ],
+    "jname": "隠された岩屋",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_40d675d6e7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "255",
+    "types": [
+      "Land"
+    ],
+    "jname": "蓮葉村",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_96689028f9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "256",
+    "types": [
+      "Land"
+    ],
+    "jname": "立藤村",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_390297c1e8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "257",
+    "types": [
+      "Land"
+    ],
+    "jname": "泥干潟村",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5a27bbe51f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "258",
+    "types": [
+      "Land"
+    ],
+    "jname": "樫穴村",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b3c5abf3a1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0.0,
+    "rarity": "uncommon",
+    "number": "259",
+    "types": [
+      "Land"
+    ],
+    "jname": "岩面村",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_902c2e4382.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "rare",
+    "number": "260",
+    "types": [
+      "Land"
+    ],
+    "jname": "三本木市",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_93301367a5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 0.0,
+    "rarity": "common",
+    "number": "261",
+    "types": [
+      "Land"
+    ],
+    "jname": "未知なる安息地",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_83d84f3f59.png",
+    "backimageurl": null,
+    "layout": "normal"
+  }
+]
