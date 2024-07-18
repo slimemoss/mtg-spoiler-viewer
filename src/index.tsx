@@ -3,9 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import {Page} from './pages'
-import MH3 from './data/MH3.json'
 import BLB from './data/BLB.json'
-import { Alert } from 'react-bootstrap'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -23,16 +21,9 @@ root.render(
             </ul>
         </div>
 
-        <Alert variant='warning'>
-            プレイブースターのうち、MH3のカードのみを扱っています。
-            <a href='https://magic.wizards.com/ja/products/modern-horizons-3/card-image-gallery'
-               target="_blank" rel="noopener noreferrer">スペシャルゲスト・統率者カードは公式ページをご覧ください。</a>
-        </Alert>
-
         <HashRouter>
             <Routes>
-                <Route path="/blb" element={<Page data={BLB} setName="ブルームバロウ" />}/>
-                <Route path="*" element={<Page data={MH3} setName="モダンホライゾン３" />}/>
+                <Route path="*" element={<Page data={BLB} setName="ブルームバロウ" />}/>
             </Routes>
         </HashRouter>
 
