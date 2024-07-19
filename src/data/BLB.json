@@ -94,6 +94,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "8",
+    "types": [],
+    "jname": "食べかす争い",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_ac9dc1b785.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "rare",
     "number": "9",
@@ -191,6 +204,19 @@
     "types": [],
     "jname": "跳び込め",
     "imageurl": "https://media.wizards.com/2024/blb/jp_b6758bcafc.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "17",
+    "types": [],
+    "jname": "剛胆な兎",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0b7c69e0cf.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -485,6 +511,19 @@
       "U"
     ],
     "manaValue": 2.0,
+    "rarity": "rare",
+    "number": "41",
+    "types": [],
+    "jname": "群青の獣縛り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_55e2860bba.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
     "rarity": "common",
     "number": "42",
     "types": [],
@@ -516,6 +555,32 @@
     "types": [],
     "jname": "果敢な波乗り",
     "imageurl": "https://media.wizards.com/2024/blb/jp_bbc7a38f02.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "45",
+    "types": [],
+    "jname": "まばゆい拒絶",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c714bce344.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "46",
+    "types": [],
+    "jname": "不吉な下降気流",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_b7373e9002.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -809,12 +874,51 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "69",
+    "types": [],
+    "jname": "下支え",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_71fc39b4ab.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "70",
     "types": [],
     "jname": "川岸の物あさり",
     "imageurl": "https://media.wizards.com/2024/blb/jp_047248ea66.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "71",
+    "types": [],
+    "jname": "飛び跳ねる二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_0d4836653e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "72",
+    "types": [],
+    "jname": "呪文渦",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_2c8cfb76e8.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -841,6 +945,19 @@
     "types": [],
     "jname": "水飛沫の門",
     "imageurl": "https://media.wizards.com/2024/blb/jp_c411fd4b11.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "number": "75",
+    "types": [],
+    "jname": "嵐追いの才能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_6893d76573.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -952,6 +1069,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "84",
+    "types": [],
+    "jname": "骨縛りの語り部",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_828e70ee21.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 1.0,
     "rarity": "uncommon",
     "number": "85",
@@ -997,6 +1127,19 @@
     "types": [],
     "jname": "残虐爪の強奪",
     "imageurl": "https://media.wizards.com/2024/blb/jp_61f353eac8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "89",
+    "types": [],
+    "jname": "短剣牙の二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_914de4e765.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1212,6 +1355,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "106",
+    "types": [],
+    "jname": "山峡の略奪者",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5c9d3e9ec6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 6.0,
     "rarity": "mythic",
     "number": "107",
@@ -1231,6 +1387,19 @@
     "types": [],
     "jname": "無情な交渉",
     "imageurl": "https://media.wizards.com/2024/blb/jp_c27e2219a8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "109",
+    "types": [],
+    "jname": "堪能",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_3c69800c77.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1526,6 +1695,19 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "132",
+    "types": [],
+    "jname": "運命の大嵐、ドラゴンホーク",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1ff1d24c5a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 2.0,
     "rarity": "rare",
     "number": "133",
@@ -1748,6 +1930,32 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "150",
+    "types": [],
+    "jname": "非道な二人組",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_146f0ab16e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "151",
+    "types": [],
+    "jname": "サザキャップの醸造",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_1a15af0490.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 5.0,
     "rarity": "mythic",
     "number": "152",
@@ -1827,6 +2035,19 @@
       "R"
     ],
     "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "158",
+    "types": [],
+    "jname": "渓間の炎呼び",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_e8251f24d5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
     "rarity": "uncommon",
     "number": "159",
     "types": [],
@@ -1858,6 +2079,19 @@
     "types": [],
     "jname": "髭羽ペンの書記官",
     "imageurl": "https://media.wizards.com/2024/blb/jp_47b62831c0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "162",
+    "types": [],
+    "jname": "野火の遠吠え",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_cc770b1ad7.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2014,6 +2248,32 @@
     "types": [],
     "jname": "危険根の薬草医",
     "imageurl": "https://media.wizards.com/2024/blb/jp_db4d5e1cf5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "175",
+    "types": [],
+    "jname": "山積みの収穫",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_5d186529d1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "176",
+    "types": [],
+    "jname": "高潮渡り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_9e5bd4a0da.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2203,6 +2463,19 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "191",
+    "types": [],
+    "jname": "屑鉄撃ち",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_41f7960656.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 6.0,
     "rarity": "mythic",
     "number": "192",
@@ -2222,6 +2495,19 @@
     "types": [],
     "jname": "くっつき舌の歩哨",
     "imageurl": "https://media.wizards.com/2024/blb/jp_c9539ea40d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "194",
+    "types": [],
+    "jname": "食糧庫の備蓄",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_717d7be85c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2269,6 +2555,19 @@
       "G"
     ],
     "manaValue": 2.0,
+    "rarity": "common",
+    "number": "198",
+    "types": [],
+    "jname": "三本木の樹根織り",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_c688aeef1e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "199",
     "types": [],
@@ -2281,7 +2580,7 @@
     "colorIdentity": [
       "G"
     ],
-    "manaValue": 3.0,
+    "manaValue": 4.0,
     "rarity": "common",
     "number": "200",
     "types": [],

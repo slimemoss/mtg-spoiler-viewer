@@ -2,6 +2,7 @@ import * as React from 'react'
 import { createRoot } from 'react-dom/client'
 import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
+import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
 import BLB from './data/BLB.json'
 
@@ -20,6 +21,10 @@ root.render(
                 <li><a href="#/">モダンホライゾン３</a></li>
             </ul>
         </div>
+
+        <Alert variant="warning">
+            プレビュー期間のため、一部カードは未実装です。
+        </Alert>
 
         <HashRouter>
             <Routes>
