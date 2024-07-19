@@ -238,6 +238,19 @@
       "W"
     ],
     "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "19",
+    "types": [],
+    "jname": "愉快なアレチネズミ",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_130e9bcfe1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
     "rarity": "common",
     "number": "20",
     "types": [],
@@ -3402,6 +3415,17 @@
     ],
     "jname": "未知なる安息地",
     "imageurl": "https://media.wizards.com/2024/blb/jp_83d84f3f59.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "248",
+    "types": [],
+    "jname": "短弓",
+    "imageurl": "https://media.wizards.com/2024/blb/jp_24da1f2ce9.png",
     "backimageurl": null,
     "layout": "normal"
   }
