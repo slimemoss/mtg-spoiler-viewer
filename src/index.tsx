@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import BLB from './data/BLB.json'
+import DSK from './data/DSK.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -18,17 +18,17 @@ root.render(
 
         <div hidden>
             <ul>
-                <li><a href="#/">モダンホライゾン３</a></li>
+                <li><a href="#/">ダスクモーン：戦慄の館</a></li>
             </ul>
         </div>
 
-        <Alert variant="warning" hidden>
+        <Alert variant="warning" hidden={false}>
             プレビュー期間のため、一部カードは未実装です。
         </Alert>
 
         <HashRouter>
             <Routes>
-                <Route path="*" element={<Page data={BLB} setName="ブルームバロウ" />}/>
+                <Route path="*" element={<Page data={DSK} setName="ダスクモーン：戦慄の館" />}/>
             </Routes>
         </HashRouter>
 
