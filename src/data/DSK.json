@@ -29,6 +29,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 7.0,
+    "rarity": "rare",
+    "number": "3",
+    "types": [],
+    "jname": "絢爛たる劇場",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_197d0b2b93.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 8.0,
     "rarity": "mythic",
     "number": "4",
@@ -81,6 +94,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "8",
+    "types": [],
+    "jname": "悪魔祓い",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_61ead43ca5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 6.0,
     "rarity": "uncommon",
     "number": "9",
@@ -126,6 +152,19 @@
     "types": [],
     "jname": "友好的な幽霊",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_59352dae20.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "13",
+    "types": [],
+    "jname": "亡者の踊り手",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_93e685d5df.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -211,6 +250,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "20",
+    "types": [],
+    "jname": "生ける電話",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_43aad03d3d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 1.0,
     "rarity": "uncommon",
     "number": "21",
@@ -263,6 +315,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "number": "25",
+    "types": [],
+    "jname": "取り憑かれた山羊",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_9e56ccce7a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "rare",
     "number": "26",
@@ -289,12 +354,38 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "28",
+    "types": [],
+    "jname": "眠りからの襲撃",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a05f11ffd2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 1.0,
     "rarity": "uncommon",
     "number": "29",
     "types": [],
     "jname": "破片魔道士の救出",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_bde55a4c43.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "30",
+    "types": [],
+    "jname": "幽霊による庇護",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_0fa85575de.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -341,6 +432,19 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "34",
+    "types": [],
+    "jname": "手術室",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a85cc383e7.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 3.0,
     "rarity": "rare",
     "number": "35",
@@ -360,6 +464,19 @@
     "types": [],
     "jname": "画面の中への幽閉",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_694db8430a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "37",
+    "types": [],
+    "jname": "未確認浮遊船",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_cdab4274ce.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -510,6 +627,32 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "49",
+    "types": [],
+    "jname": "音を立てるな",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_ce98fbf151.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "50",
+    "types": [],
+    "jname": "ダスクモーンの支配",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_55130738d5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 4.0,
     "rarity": "rare",
     "number": "51",
@@ -529,6 +672,32 @@
     "types": [],
     "jname": "謎への突入",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_e6e9023d53.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "53",
+    "types": [],
+    "jname": "精体の追跡者",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_6f3703785d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "54",
+    "types": [],
+    "jname": "うつろう亡霊",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_eac0989bf7.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -601,12 +770,38 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "60",
+    "types": [],
+    "jname": "今のうちに出よう",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_70a2478e5d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 4.0,
     "rarity": "uncommon",
     "number": "61",
     "types": [],
     "jname": "亡者の鍵持ち",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_bdd784b708.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "62",
+    "types": [],
+    "jname": "光霊噴出",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_1c92fdf98f.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -622,6 +817,32 @@
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a0e8f763a2.png",
     "backimageurl": null,
     "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6.0,
+    "rarity": "rare",
+    "number": "64",
+    "types": [],
+    "jname": "マリーナ・ヴェンドレルの呪文書",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_6132c98cf2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 8.0,
+    "rarity": "common",
+    "number": "65",
+    "types": [],
+    "jname": "食肉用冷凍室",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_002558d38d.png",
+    "backimageurl": null,
+    "layout": "split"
   },
   {
     "colorIdentity": [
@@ -796,6 +1017,32 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "79",
+    "types": [],
+    "jname": "水中トンネル",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_5a468c8101.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "80",
+    "types": [],
+    "jname": "肝冷やしの手",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_fcbd465dcf.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 3.0,
     "rarity": "uncommon",
     "number": "81",
@@ -848,6 +1095,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "85",
+    "types": [],
+    "jname": "哄笑する斬鬼",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_1df39a6430.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 3.0,
     "rarity": "rare",
     "number": "86",
@@ -867,6 +1127,19 @@
     "types": [],
     "jname": "邪悪との対話",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_d5f78507eb.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "88",
+    "types": [],
+    "jname": "ひび割れた頭蓋骨",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_3398bd4785.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -900,6 +1173,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "91",
+    "types": [],
+    "jname": "荒らされた地下室",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_c3da4c6d17.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 2.0,
     "rarity": "rare",
     "number": "92",
@@ -908,6 +1194,19 @@
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a838e70a05.png",
     "backimageurl": null,
     "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "93",
+    "types": [],
+    "jname": "見捨てられた屋根裏部屋",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_813cdce161.png",
+    "backimageurl": null,
+    "layout": "split"
   },
   {
     "colorIdentity": [
@@ -1043,6 +1342,32 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "104",
+    "types": [],
+    "jname": "殺人鬼の仮面",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_753e0180a7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "105",
+    "types": [],
+    "jname": "ゲームをしよう",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_44870be84d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 4.0,
     "rarity": "rare",
     "number": "106",
@@ -1056,12 +1381,38 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "107",
+    "types": [],
+    "jname": "生きるか死ぬか",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a1c3909716.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 4.0,
     "rarity": "mythic",
     "number": "108",
     "types": [],
     "jname": "続・食肉鉤虐殺事件",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_ed4026b00a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "number": "109",
+    "types": [],
+    "jname": "瘴気の悪魔",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a0e7e34548.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1088,6 +1439,32 @@
     "types": [],
     "jname": "逃げ場なし",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_aef1150967.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "112",
+    "types": [],
+    "jname": "骨造りの棒編み",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_075056f2e8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "number": "113",
+    "types": [],
+    "jname": "ベイルマークの大主",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_efc6e92d80.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1127,6 +1504,19 @@
     "types": [],
     "jname": "幽体の分捕り屋",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_af14f38fd8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "117",
+    "types": [],
+    "jname": "胞子形成感染",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_088b61b528.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1199,6 +1589,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "123",
+    "types": [],
+    "jname": "ウィンターの介入",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_5e090221b6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 3.0,
     "rarity": "uncommon",
     "number": "124",
@@ -1212,12 +1615,38 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 6.0,
+    "rarity": "common",
+    "number": "125",
+    "types": [],
+    "jname": "寝癖のけだもの",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_90b9718cb2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "126",
     "types": [],
     "jname": "裏切り者の駆け引き",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_4cd7f69f0b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "number": "127",
+    "types": [],
+    "jname": "ボイラービルジの切り裂き魔",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_15862dc611.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1472,6 +1901,19 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "number": "147",
+    "types": [],
+    "jname": "画家の仕事場",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_132f8be6ae.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "148",
@@ -1550,6 +1992,45 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "number": "154",
+    "types": [],
+    "jname": "刈り鎖の剃刀族",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_26d0992f31.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "number": "155",
+    "types": [],
+    "jname": "粉砕コースター",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_56a5a34921.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "156",
+    "types": [],
+    "jname": "焦熱の竜火",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_9a4c369c65.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 3.0,
     "rarity": "mythic",
     "number": "157",
@@ -1558,6 +2039,19 @@
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_7e5be45b0b.png",
     "backimageurl": null,
     "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "number": "158",
+    "types": [],
+    "jname": "券売所",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a27c283164.png",
+    "backimageurl": null,
+    "layout": "split"
   },
   {
     "colorIdentity": [
@@ -1621,6 +2115,32 @@
     "types": [],
     "jname": "悪意ある道化師",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_77922a8b09.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "164",
+    "types": [],
+    "jname": "暴力的衝動",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_5917c35193.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "165",
+    "types": [],
+    "jname": "怒りのワルツ",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_d6d1cb1d95.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1693,6 +2213,19 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "171",
+    "types": [],
+    "jname": "安堵の別れ",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_153e9e45cd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 4.0,
     "rarity": "common",
     "number": "172",
@@ -1738,6 +2271,32 @@
     "types": [],
     "jname": "果敢な生存者",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_1c4fb2605c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "number": "176",
+    "types": [],
+    "jname": "永劫の活力",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_719378f37f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "177",
+    "types": [],
+    "jname": "露呈への恐怖",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_54f46ebc7c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1824,6 +2383,19 @@
       "G"
     ],
     "manaValue": 2.0,
+    "rarity": "common",
+    "number": "184",
+    "types": [],
+    "jname": "忌まわしい迫力",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_e4b0944dc3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
     "rarity": "uncommon",
     "number": "185",
     "types": [],
@@ -1842,6 +2414,19 @@
     "types": [],
     "jname": "腹黒茸",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_55a1872a45.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "187",
+    "types": [],
+    "jname": "救助のけだもの、コーナ",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_904ab0e43f.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1872,6 +2457,32 @@
     "types": [],
     "jname": "戦慄予示",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_25e536ef35.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 9.0,
+    "rarity": "common",
+    "number": "190",
+    "types": [],
+    "jname": "朽ちゆくジム",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_bc53533e7b.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "number": "191",
+    "types": [],
+    "jname": "怪物的出現",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_8e473430f2.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2048,6 +2659,19 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 8.0,
+    "rarity": "mythic",
+    "number": "205",
+    "types": [],
+    "jname": "収納室",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_d42e5b8ff3.png",
+    "backimageurl": null,
+    "layout": "split"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 2.0,
     "rarity": "common",
     "number": "206",
@@ -2095,6 +2719,34 @@
     "types": [],
     "jname": "野球のバット",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_15c625d622.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "210",
+    "types": [],
+    "jname": "けだものの圧倒",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_daf5dc9160.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "number": "211",
+    "types": [],
+    "jname": "繁殖蜘蛛",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_1a8d0bac42.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2226,6 +2878,23 @@
   },
   {
     "colorIdentity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "221",
+    "types": [],
+    "jname": "マリーナ・ヴェンドレル",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a35cd514a6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "R",
       "W"
     ],
@@ -2310,6 +2979,20 @@
   },
   {
     "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "number": "228",
+    "types": [],
+    "jname": "落とし子狩り、リップ",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_a3a67cee15.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "B",
       "W"
     ],
@@ -2321,6 +3004,20 @@
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_75e814ad32.png",
     "backimageurl": null,
     "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 7.0,
+    "rarity": "rare",
+    "number": "230",
+    "types": [],
+    "jname": "咆哮する焼炉",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_2edb71f313.png",
+    "backimageurl": null,
+    "layout": "split"
   },
   {
     "colorIdentity": [
@@ -2347,6 +3044,20 @@
     "types": [],
     "jname": "巧みな語り部",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_63b4cc2eb6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 7.0,
+    "rarity": "uncommon",
+    "number": "233",
+    "types": [],
+    "jname": "帷大足",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_8979e8b04c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2487,6 +3198,28 @@
   },
   {
     "colorIdentity": [],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "number": "244",
+    "types": [],
+    "jname": "伝導性マチェーテ",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_63b108a250.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "number": "245",
+    "types": [],
+    "jname": "解剖道具",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_da27e4ef6f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
     "manaValue": 1.0,
     "rarity": "common",
     "number": "246",
@@ -2543,6 +3276,17 @@
     "types": [],
     "jname": "呪われた画面",
     "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_4f632ee24a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "number": "251",
+    "types": [],
+    "jname": "館への鍵",
+    "imageurl": "https://media.wizards.com/2024/dsk/7XfDXdOLQz5JTd87/jp_e539877db8.png",
     "backimageurl": null,
     "layout": "normal"
   },

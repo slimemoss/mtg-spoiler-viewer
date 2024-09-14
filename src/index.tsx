@@ -22,7 +22,7 @@ root.render(
             </ul>
         </div>
 
-        <Alert variant="warning" hidden={false}>
+        <Alert variant="warning" hidden={true}>
             プレビュー期間のため、一部カードは未実装です。
         </Alert>
 
