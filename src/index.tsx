@@ -18,18 +18,15 @@ root.render(
 
         <div hidden>
             <ul>
-                <li><a href="#/">ダスクモーン：戦慄の館</a></li>
+                <li><a href="#/">タイトル</a></li>
             </ul>
         </div>
 
-        <Alert variant="warning" hidden={false}>
+        <Alert variant="warning" hidden={true}>
             プレビュー期間のため、一部カードは未掲載です。
         </Alert>
         <Alert variant="warning" hidden={false}>
-            プレイブースターに収録されるカードを掲載しています。(通常絵のみ) (スペシャルゲストを除く)<a href='https://magic.wizards.com/ja/products/foundations/card-image-gallery?cigproduct=fdn-products-play-boosters&cigtreatment=all-treatments&cigcolor=all-colors&cigfreshness=all-cards&cigset=SPG&cigsubset=all-subsets&cigsubtype=all-subtypes&cigtype=all-types&cigrarity=all-rarities'>スペシャルゲストは公式ページをご覧ください。</a>
-        </Alert>
-        <Alert variant="warning" hidden={false}>
-            <a href="https://magic.wizards.com/ja/products/foundations/card-image-gallery">プレイブースターでない商品のカードは公式サイトをご覧ください。</a>
+            プレイブースター収録の通常絵を掲載しています。 (スペシャルゲストを除く)<a href='https://magic.wizards.com/ja/products/foundations/card-image-gallery?cigproduct=fdn-products-play-boosters&cigtreatment=all-treatments&cigcolor=all-colors&cigfreshness=all-cards&cigset=SPG&cigsubset=all-subsets&cigsubtype=all-subtypes&cigtype=all-types&cigrarity=all-rarities'>スペシャルゲストは公式ページをご覧ください。</a>
         </Alert>
 
         <HashRouter>

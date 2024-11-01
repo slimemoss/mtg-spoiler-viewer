@@ -1,15 +1,22 @@
 import * as React from 'react'
 import { MtgCard } from '../../data/LTR'
 
+export enum SortBy {
+  ID,
+  Color
+}
 export interface Config {
   rarity: Set<string>
+  sortBy: SortBy
 }
 const defaultConfig: Config = {
   rarity: new Set([]),
+  sortBy: SortBy.Color
 }
 
 export interface ClassifyHooksI {
   setRarity: (rarity: string, add: boolean) => void
+  setSort: (method: SortBy) => void
   classify: (cards: MtgCard[]) => MtgCard[]
 }
 
@@ -23,6 +30,13 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
       config.rarity.delete(rarity)
     }
     setConfig({...config})
+  }
+
+  const setSort = (method: SortBy) => {
+    setConfig({
+      ...config,
+      sortBy: method
+    })
   }
 
   const classify = (cards: MtgCard[]): MtgCard[] => {
@@ -63,11 +77,45 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
       return res
     }
 
+    // シングル -> マルチ -> 無色 -> 土地
+    const sortByColor = (cards: MtgCard[]): MtgCard[] => {
+      const colorOrder = ['W', 'U', 'B', 'R', 'G']
+      const prio = (card: MtgCard): number => {
+        if(card.jname == '七つの死の種父') { return 0 }
+        var res = 0
+        if(card.types.includes('Land')) { res += 10000 }
+        if(card.colorIdentity.length == 0) { res += 5000 }
+        if(card.colorIdentity.length > 2) { res += 2000 }
+        if(card.colorIdentity.length > 1) { res += 1000 }
+        card.colorIdentity.map(color => {
+          res += colorOrder.indexOf(color) ** 3
+        })
+        
+        return res
+      }
+      return cards.sort((a, b) => {
+        return prio(a) - prio(b)
+      })
+    }
+
+    const sortByID = (cards: MtgCard[]): MtgCard[] => {
+      return cards
+    }
+
+    const sort = (cards: MtgCard[], sortMethod: SortBy): MtgCard[] => {
+      switch (sortMethod) {
+        case SortBy.Color:
+          return sortByColor(cards)
+      }
+      return sortByID(cards)
+    }
+
     cards = cards.concat()
     cards = fillEmpty(cards)
     cards = filter(cards, config.rarity)
+    cards = sort(cards, config.sortBy)
     return cards
   }
 
-  return [config, {setRarity, classify}]
+  return [config, {setRarity, setSort, classify}]
 }

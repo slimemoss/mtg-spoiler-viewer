@@ -33,7 +33,7 @@ export const Card = (props: Props) => {
     }
 
     const fname = url.split('/').slice(-1)[0]
-    return './dist/image/card/' + fname + '.webp'
+    return './dist/image/card/' + encodeURIComponent(fname) + '.webp'
   }
   
   return (
@@ -46,29 +46,29 @@ export const Card = (props: Props) => {
           <img src={geturl(card, isFace)}
                style={{minWidth: '300px', width: '100%', height: 'auto'}} />
         </Modal.Body>
-      </Modal>
+    </Modal>
 
-      <div style={{display: 'flex'}}>
-        <div style={{fontSize: '70%'}}>{props.count}</div>
-        <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
+    <div style={{display: 'flex'}}>
+      <div style={{fontSize: '70%'}}>{props.count}</div>
+      <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
 
-        <div hidden={!hasBack}>
-          <Button size="sm"
-                  onClick={() => {setIsFace(!isFace)}}
-                  className="d-flex align-items-center justify-content-center">
-            <TbRepeat/>
-          </Button>
-        </div>
-
-        <div hidden={!isSplit || isMobile}>
-          <Button size="sm"
-                  onClick={() => {setShowModal(!showModal)}}
-                  className="d-flex align-items-center justify-content-center">
-            <AiOutlineRotateRight />
-          </Button>
-        </div>
-        
+      <div hidden={!hasBack}>
+        <Button size="sm"
+                onClick={() => {setIsFace(!isFace)}}
+                className="d-flex align-items-center justify-content-center">
+          <TbRepeat/>
+        </Button>
       </div>
+
+      <div hidden={!isSplit || isMobile}>
+        <Button size="sm"
+                onClick={() => {setShowModal(!showModal)}}
+                className="d-flex align-items-center justify-content-center">
+          <AiOutlineRotateRight />
+        </Button>
+      </div>
+      
+    </div>
     </>
   )
 }
