@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DSK from './data/DSK.json'
+import FDN from './data/FDN.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -22,13 +22,19 @@ root.render(
             </ul>
         </div>
 
-        <Alert variant="warning" hidden={true}>
-            プレビュー期間のため、一部カードは未実装です。
+        <Alert variant="warning" hidden={false}>
+            プレビュー期間のため、一部カードは未掲載です。
+        </Alert>
+        <Alert variant="warning" hidden={false}>
+            プレイブースターに収録されるカードを掲載しています。(通常絵のみ) (スペシャルゲストを除く)<a href='https://magic.wizards.com/ja/products/foundations/card-image-gallery?cigproduct=fdn-products-play-boosters&cigtreatment=all-treatments&cigcolor=all-colors&cigfreshness=all-cards&cigset=SPG&cigsubset=all-subsets&cigsubtype=all-subtypes&cigtype=all-types&cigrarity=all-rarities'>スペシャルゲストは公式ページをご覧ください。</a>
+        </Alert>
+        <Alert variant="warning" hidden={false}>
+            <a href="https://magic.wizards.com/ja/products/foundations/card-image-gallery">プレイブースターでない商品のカードは公式サイトをご覧ください。</a>
         </Alert>
 
         <HashRouter>
             <Routes>
-                <Route path="*" element={<Page data={DSK} setName="ダスクモーン：戦慄の館" />}/>
+                <Route path="*" element={<Page data={FDN} setName="ファウンデーションズ" />}/>
             </Routes>
         </HashRouter>
 

@@ -1,1 +1,0 @@
-cat LTR.org.json | jq '.[] | {colorIdentity, manaValue, rarity, jname, imageurl, number, types}' | jq -s > LTR.json
