@@ -2263,6 +2263,19 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "175",
+    "types": [],
+    "jname": "英雄の破滅",
+    "imageurl": "https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/jp_cb3141947c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 6.0,
     "rarity": "mythic",
     "number": "176",
@@ -2373,6 +2386,19 @@
     "types": [],
     "jname": "ルーン傷の悪魔",
     "imageurl": "https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/jp_f43cf7dcce.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "number": "185",
+    "types": [],
+    "jname": "流城の血泥棒",
+    "imageurl": "https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/jp_2a26b56310.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -3517,32 +3543,6 @@
     ],
     "jname": "風に削られた岩山",
     "imageurl": "https://media.wizards.com/2024/fdn/KJcVGY55Z3Bgi7/jp_f3886659c5.png",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 3.0,
-    "rarity": "uncommon",
-    "number": "175",
-    "types": [],
-    "jname": "Hero's Downfall",
-    "imageurl": "https://cards.scryfall.io/large/front/a/d/ad2c01d9-8f54-46c0-9dc9-d4d4764ce1c9.jpg?1723703032",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 3.0,
-    "rarity": "uncommon",
-    "number": "185",
-    "types": [],
-    "jname": "Stromkirk Bloodthief",
-    "imageurl": "https://cards.scryfall.io/large/front/4/8/485d6a5a-2054-47d5-91b8-71ce308ed4dc.jpg?1729520133",
     "backimageurl": null,
     "layout": "normal"
   }
