@@ -29,7 +29,7 @@ root.render(
       プレイブースター収録の通常絵を掲載しています。 (スペシャルゲストを除く)<a href='https://magic.wizards.com/ja/products/foundations/card-image-gallery?cigproduct=fdn-products-play-boosters&cigtreatment=all-treatments&cigcolor=all-colors&cigfreshness=all-cards&cigset=SPG&cigsubset=all-subsets&cigsubtype=all-subtypes&cigtype=all-types&cigrarity=all-rarities'>スペシャルゲストは公式ページをご覧ください。</a>
     </Alert>
     <Alert variant="secondary" hidden={false}>
-      構築専用・スタンリーガルのカードは、こちらをご覧ください。(外部サイトが開きます。)
+      その他のスタンダードリーガルのカードは、こちらをご覧ください。(外部サイトが開きます。)
       <ul style={{margin: "0"}}>
         <li><a href="https://scryfall.com/search?order=set&q=e%3Afdn+cn%E2%89%A5728+cn%E2%89%A4729&unique=prints" target="_blank">プロモ</a></li>
         <li><a href="https://scryfall.com/search?order=set&q=e%3Afdn+%28%28cn%E2%89%A5488+cn%E2%89%A4564%29+OR+cn%3A%22730%22%29&unique=prints" target="_blank">ビギナー・ボックス</a></li>
