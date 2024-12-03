@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import FDN from './data/FDN.json'
+import DATA from './data/PIO.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -25,21 +25,10 @@ root.render(
     <Alert variant="warning" hidden={true}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
-    <Alert variant="secondary" hidden={false}>
-      プレイブースター収録の通常絵を掲載しています。 (スペシャルゲストを除く)<a href='https://magic.wizards.com/ja/products/foundations/card-image-gallery?cigproduct=fdn-products-play-boosters&cigtreatment=all-treatments&cigcolor=all-colors&cigfreshness=all-cards&cigset=SPG&cigsubset=all-subsets&cigsubtype=all-subtypes&cigtype=all-types&cigrarity=all-rarities'>スペシャルゲストは公式ページをご覧ください。</a>
-    </Alert>
-    <Alert variant="secondary" hidden={false}>
-      その他のスタンダードリーガルのカードは、こちらをご覧ください。(外部サイトが開きます。)
-      <ul style={{margin: "0"}}>
-        <li><a href="https://scryfall.com/search?order=set&q=e%3Afdn+cn%E2%89%A5728+cn%E2%89%A4729&unique=prints" target="_blank">プロモ</a></li>
-        <li><a href="https://scryfall.com/search?order=set&q=e%3Afdn+%28%28cn%E2%89%A5488+cn%E2%89%A4564%29+OR+cn%3A%22730%22%29&unique=prints" target="_blank">ビギナー・ボックス</a></li>
-        <li><a href="https://scryfall.com/search?order=set&q=e%3Afdn+cn%E2%89%A5565+cn%E2%89%A4727&unique=prints" target="_blank">Starter Collection</a></li>
-      </ul>
-    </Alert>
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={FDN} setName="ファウンデーションズ" />}/>
+        <Route path="*" element={<Page data={DATA} setName="パイオニアマスターズ" />}/>
       </Routes>
     </HashRouter>
 
