@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/PIO.json'
+import DATA from './data/DFT.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -22,13 +22,19 @@ root.render(
       </ul>
     </div>
 
-    <Alert variant="warning" hidden={true}>
+    <Alert variant="warning" hidden={false}>
       プレビュー期間のため、一部カードは未掲載です。
+    </Alert>
+
+    <Alert variant="info">
+      <a href="https://magic.wizards.com/ja/products/aetherdrift/card-image-gallery?cigset=SPG"
+         target="_blank" rel="noopener noreferrer">
+        スペシャルゲストはこちら</a>
     </Alert>
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="パイオニアマスターズ" />}/>
+        <Route path="*" element={<Page data={DATA} setName="霊気走破" />}/>
       </Routes>
     </HashRouter>
 

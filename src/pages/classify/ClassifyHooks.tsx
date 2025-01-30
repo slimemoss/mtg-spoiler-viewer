@@ -57,6 +57,8 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
         number: '',
         types: [],
         jname: '',
+        power: null,
+        toughness: null,
         imageurl: 'https://cards.scryfall.io/back.png',
         backimageurl: null,
       }

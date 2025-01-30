@@ -39,14 +39,9 @@ export const Page = (props: Props) => {
     <div style={{
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fill,minmax(300px, 1fr))'}}>
-      {shown.slice(0, displayDiv).map((card, i) => (
-        <div key={i} style={{margin: '0.2rem'}}>
+      {shown.map((card, i) => (
+        <div key={card.number} style={{margin: '0.2rem'}}>
           <Card card={card} count={i + 1} />
-        </div>
-      ))}
-      {!wating && shown.slice(displayDiv).map((card, i) => (
-        <div key={i} style={{margin: '0.2rem'}}>
-          <Card card={card} count={i + displayDiv + 1} />
         </div>
       ))}
     </div>
