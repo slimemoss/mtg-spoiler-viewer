@@ -11,7 +11,7 @@ export interface Config {
 }
 const defaultConfig: Config = {
   rarity: new Set([]),
-  sortBy: SortBy.Color
+  sortBy: SortBy.ID
 }
 
 export interface ClassifyHooksI {
@@ -113,7 +113,7 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
     }
 
     cards = cards.concat()
-    //cards = fillEmpty(cards)
+    cards = fillEmpty(cards)
     cards = filter(cards, config.rarity)
     cards = sort(cards, config.sortBy)
     return cards
