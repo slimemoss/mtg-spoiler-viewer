@@ -3,6 +3,8 @@ export interface MtgCard {
   manaValue: number,
   rarity: string,
   number: string,
+  power: string | null,
+  toughness: string | null,
   types: string[],
   jname: string,
   imageurl: string,
@@ -10,7 +12,3 @@ export interface MtgCard {
   layout?: string | null
 }
 
-declare module '~/data/LTR.json' {
-  const data: MtgCard;
-  export default data;
-}
