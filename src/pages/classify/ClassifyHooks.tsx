@@ -11,7 +11,7 @@ export interface Config {
 }
 const defaultConfig: Config = {
   rarity: new Set([]),
-  sortBy: SortBy.Color
+  sortBy: SortBy.ID
 }
 
 export interface ClassifyHooksI {
@@ -55,13 +55,15 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
         manaValue: 0,
         rarity: '',
         number: '',
+        power: null,
+        toughness: null,
         types: [],
         jname: '',
         imageurl: 'https://cards.scryfall.io/back.png',
         backimageurl: null,
       }
 
-      const maxNumber = Math.max(...cards.map(c => parseInt(c.number)))
+      const maxNumber = Math.min(Math.max(...cards.map(c => parseInt(c.number))), 271)
 
       const idx = [...Array(maxNumber).keys()]
       const res: MtgCard[] = idx.map(i => {
@@ -111,7 +113,7 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
     }
 
     cards = cards.concat()
-    //cards = fillEmpty(cards)
+    cards = fillEmpty(cards)
     cards = filter(cards, config.rarity)
     cards = sort(cards, config.sortBy)
     return cards

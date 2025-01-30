@@ -11,6 +11,7 @@ import { MtgCard } from '../data/LTR'
 interface Props {
   card: MtgCard
   count: number
+  ImageComponent: React.ComponentType<{url: string, card: MtgCard}>
 }
 
 export const Card = (props: Props) => {
@@ -38,8 +39,7 @@ export const Card = (props: Props) => {
   
   return (
     <>
-      <img src={geturl(card, isFace)}
-           style={{minWidth: '300px', width: '100%', height: 'auto'}} />
+      <props.ImageComponent url={geturl(card, isFace)} card={card} />
 
       <Modal show={showModal} onHide={() => setShowModal(!showModal)} style={{transform: 'rotate(0deg)'}}>
         <Modal.Body style={{transform: 'rotate(90deg) translate(-20%)'}}>
