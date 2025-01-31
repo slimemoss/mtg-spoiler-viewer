@@ -168,6 +168,21 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "5",
+    "number": "15",
+    "types": [],
+    "jname": "守護の陽馬",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3e1cafb957.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "common",
     "power": "0",
@@ -273,6 +288,51 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "power": "6",
+    "toughness": "10",
+    "number": "27",
+    "types": [],
+    "jname": "救出エンジン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_abd3a65fe4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "number": "28",
+    "types": [],
+    "jname": "空見の戦車",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2801cd033b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "number": "29",
+    "types": [],
+    "jname": "壮大な玉突き衝突",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_61bd428533.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "common",
     "power": "3",
@@ -356,6 +416,36 @@
     "types": [],
     "jname": "霊気吸引機",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b3af064cdb.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "39",
+    "types": [],
+    "jname": "跳ね弾き",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5d00ff399f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "8",
+    "number": "40",
+    "types": [],
+    "jname": "珊瑚の暴君、ケローナ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_966e472100.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -768,6 +858,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "4",
+    "number": "87",
+    "types": [],
+    "jname": "夜の大臣、ゴンティ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3ff6beda34.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 3.0,
     "rarity": "uncommon",
     "power": null,
@@ -798,6 +903,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": "7",
+    "toughness": "2",
+    "number": "93",
+    "types": [],
+    "jname": "飢えし暴君、カラクシオン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a8a574824b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 1.0,
     "rarity": "mythic",
     "power": "13",
@@ -814,6 +934,21 @@
       "B"
     ],
     "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "96",
+    "types": [],
+    "jname": "限界突破出力",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_73a08e4252.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
     "rarity": "uncommon",
     "power": null,
     "toughness": null,
@@ -821,6 +956,21 @@
     "types": [],
     "jname": "勢い挫き",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_d311eb2500.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "number": "99",
+    "types": [],
+    "jname": "契約人形の恐怖",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_571cc05259.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -873,6 +1023,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 7.0,
+    "rarity": "uncommon",
+    "power": "5",
+    "toughness": "5",
+    "number": "104",
+    "types": [],
+    "jname": "シェフェトの大悪鬼",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_54715957de.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 5.0,
     "rarity": "mythic",
     "power": "5",
@@ -916,6 +1081,21 @@
   },
   {
     "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "1",
+    "number": "111",
+    "types": [],
+    "jname": "悲惨な人形",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5908c11ab3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "R"
     ],
     "manaValue": 4.0,
@@ -926,6 +1106,21 @@
     "types": [],
     "jname": "爆弾車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f9e0174b68.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "number": "115",
+    "types": [],
+    "jname": "焼き切る非行士",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_0ec8c44969.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -978,6 +1173,21 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "119",
+    "types": [],
+    "jname": "衝突と炎上",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_102459b0d6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 5.0,
     "rarity": "rare",
     "power": "*",
@@ -1008,6 +1218,21 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "number": "122",
+    "types": [],
+    "jname": "ドラコサウルスの援軍",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f471129f24.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 2.0,
     "rarity": "common",
     "power": "3",
@@ -1016,6 +1241,21 @@
     "types": [],
     "jname": "エンドライダーの触媒者",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c884fbbb51.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "126",
+    "types": [],
+    "jname": "火に油",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3712e8e1d0.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1046,6 +1286,21 @@
     "types": [],
     "jname": "ガスタルの爆発屋",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f47b4e3b05.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "2",
+    "number": "129",
+    "types": [],
+    "jname": "ガスタルの激ヤバ車",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a11c8eb19c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1196,6 +1451,21 @@
     "types": [],
     "jname": "クラウドスパイアの機動二輪車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_08aeba2896.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "1",
+    "number": "149",
+    "types": [],
+    "jname": "サウリドの暴君、ティロックス",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_af7c26be2e.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1353,6 +1623,21 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "number": "163",
+    "types": [],
+    "jname": "牙ドルイドの召喚士",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_dafecc3a4b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "power": "2",
@@ -1376,6 +1661,21 @@
     "types": [],
     "jname": "ロクソドンの偵察員",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c5203d23ea.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "*",
+    "toughness": "4",
+    "number": "168",
+    "types": [],
+    "jname": "重厚な世界踏破車",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_cb202d1532.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1428,6 +1728,51 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "number": "173",
+    "types": [],
+    "jname": "自動機械職人、オビア",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ec9360d420.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "175",
+    "types": [],
+    "jname": "活路を指せ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b16c6330be.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "4",
+    "number": "177",
+    "types": [],
+    "jname": "威厳ある放漫トカゲ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_8ec8c55395.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 3.0,
     "rarity": "uncommon",
     "power": null,
@@ -1436,6 +1781,36 @@
     "types": [],
     "jname": "残骸からの再生",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_93881097e1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "number": "181",
+    "types": [],
+    "jname": "突進する小走り足",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2abe09acf4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "power": "9",
+    "toughness": "7",
+    "number": "182",
+    "types": [],
+    "jname": "大地の暴君、テリアン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a782dc3475.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1481,6 +1856,21 @@
     "types": [],
     "jname": "毒袋持ちのラガーク",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f9f093fbdf.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "number": "186",
+    "types": [],
+    "jname": "網撃の精鋭",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_efad4c654e.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1566,6 +1956,22 @@
   },
   {
     "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "193",
+    "types": [],
+    "jname": "ブルードハート・エンジン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c29fa0d319.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "R",
       "U"
     ],
@@ -1625,6 +2031,22 @@
     "types": [],
     "jname": "クラウドスパイアの飛空二輪車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_69d9b41598.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6",
+    "number": "199",
+    "types": [],
+    "jname": "屑転がし",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5a3568c2b4.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1840,6 +2262,23 @@
   {
     "colorIdentity": [
       "B",
+      "G",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "power": "0",
+    "toughness": "0",
+    "number": "214",
+    "types": [],
+    "jname": "崇められし擬態の原形質",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_74f36717f9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
       "U"
     ],
     "manaValue": 4.0,
@@ -1979,6 +2418,22 @@
     "types": [],
     "jname": "仮面のレーサー、シータ・ヴァルマ",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_d762c7b8ac.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "number": "224",
+    "types": [],
+    "jname": "探し求める空蛇",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_aa3664d3ff.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2135,6 +2590,19 @@
   },
   {
     "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "number": "237",
+    "types": [],
+    "jname": "忍耐の記念碑",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b1951fd7f4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "power": "0",
@@ -2156,6 +2624,32 @@
     "types": [],
     "jname": "競走者得点表",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_d2e5f00bf9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "number": "240",
+    "types": [],
+    "jname": "光輝の睡蓮",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b0d5a10421.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "number": "241",
+    "types": [],
+    "jname": "流浪者の刃",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_bd150d6ec0.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2615,16 +3109,16 @@
   },
   {
     "colorIdentity": [
-      "W"
+      "U"
     ],
-    "manaValue": 5.0,
-    "rarity": "rare",
-    "power": null,
-    "toughness": null,
-    "number": "29",
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "number": "46",
     "types": [],
-    "jname": "\"Spectacular Pileup\"",
-    "imageurl": "https://cards.scryfall.io/large/front/a/2/a24a6309-0e69-45f0-a9ff-44d4997e7e4d.jpg?1738047537",
+    "jname": "Howler's Heavy",
+    "imageurl": "https://cards.scryfall.io/large/front/8/b/8bbd7758-59c7-4ae1-9af8-c3580f4aa958.jpg?1738243786",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2632,29 +3126,29 @@
     "colorIdentity": [
       "U"
     ],
-    "manaValue": 2.0,
+    "manaValue": 1.0,
     "rarity": "uncommon",
-    "power": "0",
-    "toughness": "8",
-    "number": "40",
+    "power": null,
+    "toughness": null,
+    "number": "64",
     "types": [],
-    "jname": "Caelorna, Coral Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/e/8/e8654e38-4230-4094-b815-778bfb5d06f2.jpg?1738103616",
+    "jname": "Spell Pierce",
+    "imageurl": "https://cards.scryfall.io/large/front/8/d/8dd4374f-0301-4b2e-bc99-2cd19568cb3b.jpg?1738269567",
     "backimageurl": null,
     "layout": "normal"
   },
   {
     "colorIdentity": [
-      "B"
+      "U"
     ],
     "manaValue": 4.0,
     "rarity": "rare",
-    "power": "3",
-    "toughness": "4",
-    "number": "87",
+    "power": "0",
+    "toughness": "0",
+    "number": "74",
     "types": [],
-    "jname": "Gonti, Night Minister",
-    "imageurl": "https://cards.scryfall.io/large/front/d/7/d79ca40a-e5c0-4956-8df0-ecbd2a25656f.jpg?1738101067",
+    "jname": "\"Cyclone\"",
+    "imageurl": "https://cards.scryfall.io/large/front/4/1/412aaa30-b9cd-4cf8-beb8-1c1229667b31.jpg?1738156050",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2662,29 +3156,14 @@
     "colorIdentity": [
       "B"
     ],
-    "manaValue": 3.0,
-    "rarity": "uncommon",
-    "power": "7",
-    "toughness": "2",
-    "number": "93",
-    "types": [],
-    "jname": "Kalakscion, Hunger Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/1/2/1214fc6d-ae47-418d-88cc-58633ec2ac7a.jpg?1738045239",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 4.0,
+    "manaValue": 1.0,
     "rarity": "common",
-    "power": "3",
-    "toughness": "4",
-    "number": "99",
+    "power": null,
+    "toughness": null,
+    "number": "88",
     "types": [],
-    "jname": "Pactdoll Terror",
-    "imageurl": "https://cards.scryfall.io/large/front/7/0/70226354-47b7-4f9d-a5a8-559d17f07720.jpg?1738105712",
+    "jname": "Grim Bauble",
+    "imageurl": "https://cards.scryfall.io/large/front/9/b/9bfdf60a-6f67-4872-8961-d63776b192c3.jpg?1738232242",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2707,14 +3186,14 @@
     "colorIdentity": [
       "R"
     ],
-    "manaValue": 1.0,
+    "manaValue": 3.0,
     "rarity": "rare",
-    "power": "1",
-    "toughness": "1",
-    "number": "115",
+    "power": "2",
+    "toughness": "3",
+    "number": "134",
     "types": [],
-    "jname": "Burnout Bashtronaut",
-    "imageurl": "https://cards.scryfall.io/large/front/4/d/4db66e7b-cb7a-4d86-a563-d570946aeb0d.jpg?1738102071",
+    "jname": "Howlsquad Heavy",
+    "imageurl": "https://cards.scryfall.io/large/front/d/f/df582f80-7b9a-4f71-95a9-70548ec7d2d7.jpg?1738216826",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2723,163 +3202,59 @@
       "R"
     ],
     "manaValue": 2.0,
-    "rarity": "uncommon",
-    "power": "4",
-    "toughness": "1",
-    "number": "149",
-    "types": [],
-    "jname": "Tyrox, Saurid Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/1/5/159dc5a8-5cba-4c20-8c07-28a3d86c8411.jpg?1738045272",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 4.0,
-    "rarity": "uncommon",
-    "power": "2",
-    "toughness": "4",
-    "number": "163",
-    "types": [],
-    "jname": "Fang-Druid Summoner",
-    "imageurl": "https://cards.scryfall.io/large/front/4/9/496442f6-48c7-464e-bcf3-4c14f49fa065.jpg?1738082213",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 3.0,
-    "rarity": "rare",
-    "power": null,
-    "toughness": null,
-    "number": "168",
-    "types": [],
-    "jname": "Lumbering Worldwagon",
-    "imageurl": "https://cards.scryfall.io/large/front/9/f/9f989c59-7b2a-4036-9ea2-cd0c7e85c15b.jpg?1738102668",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 3.0,
-    "rarity": "rare",
-    "power": "5",
-    "toughness": "4",
-    "number": "177",
-    "types": [],
-    "jname": "Regal Imperiosaur",
-    "imageurl": "https://cards.scryfall.io/large/front/3/6/36f569cc-ed09-4c27-b753-18b22ad7f425.jpg?1738102219",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 5.0,
-    "rarity": "uncommon",
-    "power": "9",
-    "toughness": "7",
-    "number": "182",
-    "types": [],
-    "jname": "Terrian, World Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/b/4/b44255cf-5264-4ead-9de0-20cc0f7cac6f.jpg?1738045308",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B",
-      "G"
-    ],
-    "manaValue": 4.0,
-    "rarity": "rare",
-    "power": "6",
-    "toughness": "6",
-    "number": "199",
-    "types": [],
-    "jname": "\"Siege Renault\"",
-    "imageurl": "https://cards.scryfall.io/large/front/4/0/405e7900-f6df-4033-b70b-b1d2a8b6d7c8.jpg?1738051148",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B",
-      "G",
-      "U"
-    ],
-    "manaValue": 3.0,
-    "rarity": "mythic",
-    "power": "0",
-    "toughness": "0",
-    "number": "214",
-    "types": [],
-    "jname": "Mimeoplasm, Revered One",
-    "imageurl": "https://cards.scryfall.io/large/front/3/4/34e4c342-dc22-4e9c-81fc-a691ae9e21c1.jpg?1738070876",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G",
-      "U"
-    ],
-    "manaValue": 2.0,
-    "rarity": "uncommon",
-    "power": "1",
-    "toughness": "1",
-    "number": "224",
-    "types": [],
-    "jname": "Skyserpent Seeker",
-    "imageurl": "https://cards.scryfall.io/large/front/8/d/8dbd9fc0-c0df-4119-a0d3-2e1790998c21.jpg?1738102495",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [],
-    "manaValue": 6.0,
-    "rarity": "mythic",
-    "power": null,
-    "toughness": null,
-    "number": "240",
-    "types": [],
-    "jname": "Radiant Lotus",
-    "imageurl": "https://cards.scryfall.io/large/front/b/e/be6dac83-39c2-40dc-a322-76a3ea4e7aee.jpg?1738102272",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 7.0,
-    "rarity": "uncommon",
-    "power": "5",
-    "toughness": "5",
-    "number": "998?",
-    "types": [],
-    "jname": "Shefet Archfiend",
-    "imageurl": "https://cards.scryfall.io/large/front/0/7/079dc8d2-0de3-415e-8af8-b8dec669368a.jpg?1738103844",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [],
-    "manaValue": 3.0,
     "rarity": "common",
     "power": null,
     "toughness": null,
-    "number": "999?",
+    "number": "135",
     "types": [],
-    "jname": "Monument to Endurance",
-    "imageurl": "https://cards.scryfall.io/large/front/d/2/d21433ba-0a14-42bc-ad0b-a4ef823a3295.jpg?1738103717",
+    "jname": "Kickoff Celebrations",
+    "imageurl": "https://cards.scryfall.io/large/front/4/e/4e5590e1-0ac0-4bdd-815b-136bf24ced03.jpg?1738239972",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "136",
+    "types": [],
+    "jname": "Lightning Strike",
+    "imageurl": "https://cards.scryfall.io/large/front/3/0/30077b49-b825-4dbb-a0c7-f3992f647df0.jpg?1738252676",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "139",
+    "types": [],
+    "jname": "Outpace Oblivion",
+    "imageurl": "https://cards.scryfall.io/large/front/c/2/c22e415f-636f-4394-9b21-600ab720ac98.jpg?1738240012",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "4",
+    "number": "198",
+    "types": [],
+    "jname": "\"Coalheart Gearhulk\"",
+    "imageurl": "https://cards.scryfall.io/large/front/7/3/73431628-b9b0-41e6-8e9b-8a090939b0c1.jpg?1738225599",
     "backimageurl": null,
     "layout": "normal"
   }
