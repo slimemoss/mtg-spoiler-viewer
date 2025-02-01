@@ -18,6 +18,21 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "2",
+    "types": [],
+    "jname": "アラクリアの武器庫",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_502f646835.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 1.0,
     "rarity": "rare",
     "power": "2",
@@ -56,6 +71,21 @@
     "types": [],
     "jname": "煌々野の野生馬",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_0e7a1239c6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "power": "5",
+    "toughness": "4",
+    "number": "6",
+    "types": [],
+    "jname": "移動放送機",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_8b86c33d51.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -155,12 +185,57 @@
     ],
     "manaValue": 2.0,
     "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "13",
+    "types": [],
+    "jname": "勇敢な一撃",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_60fd95fc98.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
     "power": "2",
     "toughness": "3",
     "number": "14",
     "types": [],
     "jname": "栄光荒野のオオヤマネコ",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_fe23206a19.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "5",
+    "number": "15",
+    "types": [],
+    "jname": "守護の陽馬",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3e1cafb957.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "4",
+    "number": "16",
+    "types": [],
+    "jname": "ガイドライトの協働者",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_19f7765168.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -183,6 +258,21 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "number": "18",
+    "types": [],
+    "jname": "レオニンの偵察員",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_833df873b3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 1.0,
     "rarity": "common",
     "power": null,
@@ -191,6 +281,36 @@
     "types": [],
     "jname": "光盾での受け流し",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ed981be003.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "20",
+    "types": [],
+    "jname": "光輪の強化術",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2ac874405e.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "number": "21",
+    "types": [],
+    "jname": "睡蓮守りの信奉者",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2f7e3b015c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -273,6 +393,51 @@
     "colorIdentity": [
       "W"
     ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "power": "6",
+    "toughness": "10",
+    "number": "27",
+    "types": [],
+    "jname": "救出エンジン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_abd3a65fe4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "number": "28",
+    "types": [],
+    "jname": "空見の戦車",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2801cd033b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5.0,
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "number": "29",
+    "types": [],
+    "jname": "壮大な玉突き衝突",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_61bd428533.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
     "manaValue": 2.0,
     "rarity": "common",
     "power": "3",
@@ -281,6 +446,36 @@
     "types": [],
     "jname": "偵察二輪車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ab11288ff2.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "number": "31",
+    "types": [],
+    "jname": "暁の暴君、サンダイヤル",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_0f11a2e6c6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "number": "32",
+    "types": [],
+    "jname": "速翼の襲撃者",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_bba85f0178.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -346,6 +541,21 @@
   },
   {
     "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "4",
+    "number": "37",
+    "types": [],
+    "jname": "ボヤージャーの急速溶接機",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_65fc7c60a7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "U"
     ],
     "manaValue": 3.0,
@@ -356,6 +566,36 @@
     "types": [],
     "jname": "霊気吸引機",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b3af064cdb.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "39",
+    "types": [],
+    "jname": "跳ね弾き",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5d00ff399f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "8",
+    "number": "40",
+    "types": [],
+    "jname": "珊瑚の暴君、ケローナ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_966e472100.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -393,6 +633,66 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 7.0,
+    "rarity": "common",
+    "power": "5",
+    "toughness": "6",
+    "number": "43",
+    "types": [],
+    "jname": "歯車襲いの海蛇",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_67f970bf78.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "number": "44",
+    "types": [],
+    "jname": "錯霊の偵察員",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c5d782a893.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "number": "45",
+    "types": [],
+    "jname": "ガイドライトの最適化技師",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_879247ac9d.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "number": "46",
+    "types": [],
+    "jname": "ハウラーの重量級",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5547a4e162.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 5.0,
     "rarity": "common",
     "power": "3",
@@ -401,6 +701,36 @@
     "types": [],
     "jname": "船体漂い",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b3c933beb5.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "number": "48",
+    "types": [],
+    "jname": "機敏な海賊",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_7ab1ab7268.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "4",
+    "number": "49",
+    "types": [],
+    "jname": "記録の守護者",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3eb2e0c326.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -446,6 +776,21 @@
     "types": [],
     "jname": "風乗り、ムー・ヤンリン",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_0f83d675a3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "2",
+    "number": "53",
+    "types": [],
+    "jname": "敏捷な飛行機械職人",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_21c1826473.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -528,6 +873,51 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "number": "59",
+    "types": [],
+    "jname": "妨害の戦略家",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_cfd56e1600.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "2",
+    "number": "60",
+    "types": [],
+    "jname": "たかり空エイ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_26e41f2839.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "3",
+    "number": "61",
+    "types": [],
+    "jname": "飛空跡の技師",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_019e7faf1a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "power": "1",
@@ -543,6 +933,36 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "63",
+    "types": [],
+    "jname": "幽体の干渉",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c6ee79a38f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "64",
+    "types": [],
+    "jname": "呪文貫き",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_7b38482e66.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 5.0,
     "rarity": "uncommon",
     "power": "4",
@@ -551,6 +971,21 @@
     "types": [],
     "jname": "棘甲羅の追い立て屋",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2cd27ad346.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "66",
+    "types": [],
+    "jname": "エンスト",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_d48aea2cb1.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -618,6 +1053,21 @@
     "colorIdentity": [
       "U"
     ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "71",
+    "types": [],
+    "jname": "躓かせ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_8089b1af2b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
     "manaValue": 3.0,
     "rarity": "rare",
     "power": null,
@@ -641,6 +1091,36 @@
     "types": [],
     "jname": "多弁な司会、ヴンウクスト",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ae7be635e3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "0",
+    "number": "74",
+    "types": [],
+    "jname": "蝋の姿泥棒",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_aa772088ba.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "75",
+    "types": [],
+    "jname": "古からの確執",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_148fa0e802.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -693,6 +1173,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 6.0,
+    "rarity": "common",
+    "power": "5",
+    "toughness": "4",
+    "number": "79",
+    "types": [],
+    "jname": "キチン質の墓地歩き",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b8d384d1e9.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 4.0,
     "rarity": "rare",
     "power": "5",
@@ -723,6 +1218,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "number": "82",
+    "types": [],
+    "jname": "不死の操縦士",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c65b39bfd6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 7.0,
     "rarity": "rare",
     "power": "4",
@@ -731,6 +1241,21 @@
     "types": [],
     "jname": "悪魔の破砕機",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_7aa2eba0df.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "number": "84",
+    "types": [],
+    "jname": "エンジンのネズミ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_843818b940.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -768,6 +1293,66 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "4",
+    "number": "87",
+    "types": [],
+    "jname": "夜の大臣、ゴンティ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3ff6beda34.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "88",
+    "types": [],
+    "jname": "不気味なガラクタ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_7040059334.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "2",
+    "number": "89",
+    "types": [],
+    "jname": "不気味な投槍手",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_6d256e2cd1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "90",
+    "types": [],
+    "jname": "獄滅横当て",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_da86d0300a.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 3.0,
     "rarity": "uncommon",
     "power": null,
@@ -798,6 +1383,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": "7",
+    "toughness": "2",
+    "number": "93",
+    "types": [],
+    "jname": "飢えし暴君、カラクシオン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a8a574824b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 1.0,
     "rarity": "mythic",
     "power": "13",
@@ -813,6 +1413,36 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "95",
+    "types": [],
+    "jname": "蝗の飛散",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_75dd5695c8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "96",
+    "types": [],
+    "jname": "限界突破出力",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_73a08e4252.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "power": null,
@@ -821,6 +1451,36 @@
     "types": [],
     "jname": "勢い挫き",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_d311eb2500.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "number": "98",
+    "types": [],
+    "jname": "ミュータントの偵察員",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f8774b1c03.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "number": "99",
+    "types": [],
+    "jname": "契約人形の恐怖",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_571cc05259.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -873,6 +1533,36 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "103",
+    "types": [],
+    "jname": "危険な近道",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_6c33959933.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 7.0,
+    "rarity": "uncommon",
+    "power": "5",
+    "toughness": "5",
+    "number": "104",
+    "types": [],
+    "jname": "シェフェトの大悪鬼",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_54715957de.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 5.0,
     "rarity": "mythic",
     "power": "5",
@@ -881,6 +1571,21 @@
     "types": [],
     "jname": "スピードデーモン",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_0be495e366.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "106",
+    "types": [],
+    "jname": "スピン・アウト",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c36c7073dc.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -903,6 +1608,21 @@
     "colorIdentity": [
       "B"
     ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "108",
+    "types": [],
+    "jname": "燃料吸引",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_09b60d83ba.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
     "manaValue": 4.0,
     "rarity": "uncommon",
     "power": "4",
@@ -911,6 +1631,51 @@
     "types": [],
     "jname": "不屈の木人",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b573f761d6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "3",
+    "number": "110",
+    "types": [],
+    "jname": "残骸の木人",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ab0f79b1f0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "1",
+    "number": "111",
+    "types": [],
+    "jname": "悲惨な人形",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5908c11ab3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "number": "112",
+    "types": [],
+    "jname": "大興奮の乗り手",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_1459125fa5.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -926,6 +1691,36 @@
     "types": [],
     "jname": "爆弾車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f9e0174b68.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "number": "114",
+    "types": [],
+    "jname": "燃焼ロケット",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_8fe9396480.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "number": "115",
+    "types": [],
+    "jname": "焼き切る非行士",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_0ec8c44969.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -978,6 +1773,21 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "119",
+    "types": [],
+    "jname": "衝突と炎上",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_102459b0d6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 5.0,
     "rarity": "rare",
     "power": "*",
@@ -1008,6 +1818,36 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 6.0,
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "number": "122",
+    "types": [],
+    "jname": "ドラコサウルスの援軍",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f471129f24.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "number": "123",
+    "types": [],
+    "jname": "捨て身のダイナマイト持ち",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_6ac18d4e5c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 2.0,
     "rarity": "common",
     "power": "3",
@@ -1016,6 +1856,36 @@
     "types": [],
     "jname": "エンドライダーの触媒者",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c884fbbb51.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "4",
+    "number": "125",
+    "types": [],
+    "jname": "エンドライダーの棘飛ばし",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_773209747f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "126",
+    "types": [],
+    "jname": "火に油",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_3712e8e1d0.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1046,6 +1916,21 @@
     "types": [],
     "jname": "ガスタルの爆発屋",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f47b4e3b05.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "2",
+    "number": "129",
+    "types": [],
+    "jname": "ガスタルの激ヤバ車",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a11c8eb19c.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1113,6 +1998,66 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "number": "134",
+    "types": [],
+    "jname": "咆吼部隊の重量級",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_009411bcb8.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "135",
+    "types": [],
+    "jname": "開幕式",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_09ab6c8b05.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "136",
+    "types": [],
+    "jname": "稲妻の一撃",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_bd20a0da61.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "4",
+    "number": "137",
+    "types": [],
+    "jname": "溶岩族の砲兵",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2998516151.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 1.0,
     "rarity": "uncommon",
     "power": "1",
@@ -1121,6 +2066,21 @@
     "types": [],
     "jname": "略奪するアオザメ",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5628444c43.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "139",
+    "types": [],
+    "jname": "忘却を超える速度",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_311f2292ca.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1173,6 +2133,21 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 7.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "143",
+    "types": [],
+    "jname": "限界を超えろ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_055fa2ebe7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 4.0,
     "rarity": "uncommon",
     "power": "3",
@@ -1188,6 +2163,36 @@
     "colorIdentity": [
       "R"
     ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "145",
+    "types": [],
+    "jname": "路上の暴走",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_56f833edbd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "146",
+    "types": [],
+    "jname": "隕石衝突",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_1f31131d15.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
     "manaValue": 5.0,
     "rarity": "uncommon",
     "power": "5",
@@ -1196,6 +2201,36 @@
     "types": [],
     "jname": "クラウドスパイアの機動二輪車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_08aeba2896.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "power": "4",
+    "toughness": "5",
+    "number": "148",
+    "types": [],
+    "jname": "雷頭の砲手",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_8f5b6b79f3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "1",
+    "number": "149",
+    "types": [],
+    "jname": "サウリドの暴君、ティロックス",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_af7c26be2e.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1226,6 +2261,21 @@
     "types": [],
     "jname": "アゴナサウルス・レックス",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_693737ca29.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "power": "4",
+    "toughness": "4",
+    "number": "152",
+    "types": [],
+    "jname": "アラクリアのジャガー",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_63275c5f48.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1271,6 +2321,21 @@
     "types": [],
     "jname": "偉大なる賜物",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_7aafdc51a7.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "156",
+    "types": [],
+    "jname": "壊れた翼",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_951c114c16.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1353,6 +2418,36 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "2",
+    "number": "162",
+    "types": [],
+    "jname": "牙の守護者",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2db5737d29.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "number": "163",
+    "types": [],
+    "jname": "牙ドルイドの召喚士",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_dafecc3a4b.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "power": "2",
@@ -1361,6 +2456,36 @@
     "types": [],
     "jname": "緑地帯の守護者",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b9a34da5ee.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "common",
+    "power": "4",
+    "toughness": "4",
+    "number": "165",
+    "types": [],
+    "jname": "砂丘の危険",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_14793e1a7f.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "2",
+    "number": "166",
+    "types": [],
+    "jname": "雑食のジビリック",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a1fd65f3c8.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1383,6 +2508,21 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "*",
+    "toughness": "4",
+    "number": "168",
+    "types": [],
+    "jname": "重厚な世界踏破車",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_cb202d1532.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 6.0,
     "rarity": "mythic",
     "power": null,
@@ -1391,6 +2531,21 @@
     "types": [],
     "jname": "世界軟泥の進撃",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_fe9be6accd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6.0,
+    "rarity": "common",
+    "power": "6",
+    "toughness": "6",
+    "number": "170",
+    "types": [],
+    "jname": "渡りをするケトラドン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c8b9ead891.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1428,6 +2583,81 @@
     "colorIdentity": [
       "G"
     ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "number": "173",
+    "types": [],
+    "jname": "自動機械職人、オビア",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ec9360d420.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "174",
+    "types": [],
+    "jname": "進路開通",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c399df7295.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "175",
+    "types": [],
+    "jname": "活路を指せ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b16c6330be.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "number": "176",
+    "types": [],
+    "jname": "道穴のモグラ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_86a4b93990.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "4",
+    "number": "177",
+    "types": [],
+    "jname": "威厳ある放漫トカゲ",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_8ec8c55395.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
     "manaValue": 3.0,
     "rarity": "uncommon",
     "power": null,
@@ -1436,6 +2666,66 @@
     "types": [],
     "jname": "残骸からの再生",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_93881097e1.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "179",
+    "types": [],
+    "jname": "轢殺",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_07b26e7d46.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "180",
+    "types": [],
+    "jname": "操り糸の力",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b19db1dccc.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1.0,
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "number": "181",
+    "types": [],
+    "jname": "突進する小走り足",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_2abe09acf4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5.0,
+    "rarity": "uncommon",
+    "power": "9",
+    "toughness": "7",
+    "number": "182",
+    "types": [],
+    "jname": "大地の暴君、テリアン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_a782dc3475.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1481,6 +2771,21 @@
     "types": [],
     "jname": "毒袋持ちのラガーク",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_f9f093fbdf.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "number": "186",
+    "types": [],
+    "jname": "網撃の精鋭",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_efad4c654e.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1569,6 +2874,38 @@
       "R",
       "U"
     ],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "192",
+    "types": [],
+    "jname": "舷側砲の一斉射撃",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_1299b610f3.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "number": "193",
+    "types": [],
+    "jname": "ブルードハート・エンジン",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_c29fa0d319.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
     "manaValue": 4.0,
     "rarity": "rare",
     "power": "5",
@@ -1625,6 +2962,38 @@
     "types": [],
     "jname": "クラウドスパイアの飛空二輪車",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_69d9b41598.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 5.0,
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "4",
+    "number": "198",
+    "types": [],
+    "jname": "焚炭の機械巨人",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_d7124c8231.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 4.0,
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6",
+    "number": "199",
+    "types": [],
+    "jname": "屑転がし",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_5a3568c2b4.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1705,6 +3074,22 @@
     "types": [],
     "jname": "不敵な剣客",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_ef8f191005.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "number": "205",
+    "types": [],
+    "jname": "ガスタルのスリル探し",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b703b36363.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1834,6 +3219,23 @@
     "types": [],
     "jname": "ガイドライト、雲水核",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_7cb89e9fee.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "manaValue": 3.0,
+    "rarity": "mythic",
+    "power": "0",
+    "toughness": "0",
+    "number": "214",
+    "types": [],
+    "jname": "崇められし擬態の原形質",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_74f36717f9.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -1984,6 +3386,22 @@
   },
   {
     "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 2.0,
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "number": "224",
+    "types": [],
+    "jname": "探し求める空蛇",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_aa3664d3ff.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [
       "B",
       "G"
     ],
@@ -2091,6 +3509,32 @@
   {
     "colorIdentity": [],
     "manaValue": 3.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "number": "232",
+    "types": [],
+    "jname": "カメラ発射機",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_38a58e6756.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "number": "233",
+    "types": [],
+    "jname": "ガイドライトのマトリックス",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_6330bec446.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
     "rarity": "rare",
     "power": "4",
     "toughness": "4",
@@ -2135,6 +3579,19 @@
   },
   {
     "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "number": "237",
+    "types": [],
+    "jname": "忍耐の記念碑",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b1951fd7f4.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
     "manaValue": 2.0,
     "rarity": "uncommon",
     "power": "0",
@@ -2161,6 +3618,32 @@
   },
   {
     "colorIdentity": [],
+    "manaValue": 6.0,
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "number": "240",
+    "types": [],
+    "jname": "光輝の睡蓮",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b0d5a10421.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 3.0,
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "number": "241",
+    "types": [],
+    "jname": "流浪者の刃",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_bd150d6ec0.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
     "manaValue": 1.0,
     "rarity": "common",
     "power": null,
@@ -2174,6 +3657,19 @@
   },
   {
     "colorIdentity": [],
+    "manaValue": 5.0,
+    "rarity": "common",
+    "power": "4",
+    "toughness": "4",
+    "number": "243",
+    "types": [],
+    "jname": "空中観覧席",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_4350b0bf6c.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
     "manaValue": 3.0,
     "rarity": "common",
     "power": null,
@@ -2182,6 +3678,32 @@
     "types": [],
     "jname": "スタート柱",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_eea1a554bd.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "number": "245",
+    "types": [],
+    "jname": "切符亀",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_563f39d3a6.png",
+    "backimageurl": null,
+    "layout": "normal"
+  },
+  {
+    "colorIdentity": [],
+    "manaValue": 2.0,
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "number": "246",
+    "types": [],
+    "jname": "歩く石棺",
+    "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_03d36e6f86.png",
     "backimageurl": null,
     "layout": "normal"
   },
@@ -2610,276 +4132,6 @@
     ],
     "jname": "風に削られた岩山",
     "imageurl": "https://media.wizards.com/2024/dft/jX9KWo03DWpL/jp_b6de0b4475.png",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "W"
-    ],
-    "manaValue": 5.0,
-    "rarity": "rare",
-    "power": null,
-    "toughness": null,
-    "number": "29",
-    "types": [],
-    "jname": "\"Spectacular Pileup\"",
-    "imageurl": "https://cards.scryfall.io/large/front/a/2/a24a6309-0e69-45f0-a9ff-44d4997e7e4d.jpg?1738047537",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "U"
-    ],
-    "manaValue": 2.0,
-    "rarity": "uncommon",
-    "power": "0",
-    "toughness": "8",
-    "number": "40",
-    "types": [],
-    "jname": "Caelorna, Coral Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/e/8/e8654e38-4230-4094-b815-778bfb5d06f2.jpg?1738103616",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 4.0,
-    "rarity": "rare",
-    "power": "3",
-    "toughness": "4",
-    "number": "87",
-    "types": [],
-    "jname": "Gonti, Night Minister",
-    "imageurl": "https://cards.scryfall.io/large/front/d/7/d79ca40a-e5c0-4956-8df0-ecbd2a25656f.jpg?1738101067",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 3.0,
-    "rarity": "uncommon",
-    "power": "7",
-    "toughness": "2",
-    "number": "93",
-    "types": [],
-    "jname": "Kalakscion, Hunger Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/1/2/1214fc6d-ae47-418d-88cc-58633ec2ac7a.jpg?1738045239",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 4.0,
-    "rarity": "common",
-    "power": "3",
-    "toughness": "4",
-    "number": "99",
-    "types": [],
-    "jname": "Pactdoll Terror",
-    "imageurl": "https://cards.scryfall.io/large/front/7/0/70226354-47b7-4f9d-a5a8-559d17f07720.jpg?1738105712",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "R"
-    ],
-    "manaValue": 3.0,
-    "rarity": "uncommon",
-    "power": "3",
-    "toughness": "3",
-    "number": "112",
-    "types": [],
-    "jname": "\"Adrenalinotaur\"",
-    "imageurl": "https://cards.scryfall.io/large/front/c/8/c8655373-320d-440d-b700-d03413f743fd.jpg?1738048770",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "R"
-    ],
-    "manaValue": 1.0,
-    "rarity": "rare",
-    "power": "1",
-    "toughness": "1",
-    "number": "115",
-    "types": [],
-    "jname": "Burnout Bashtronaut",
-    "imageurl": "https://cards.scryfall.io/large/front/4/d/4db66e7b-cb7a-4d86-a563-d570946aeb0d.jpg?1738102071",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "R"
-    ],
-    "manaValue": 2.0,
-    "rarity": "uncommon",
-    "power": "4",
-    "toughness": "1",
-    "number": "149",
-    "types": [],
-    "jname": "Tyrox, Saurid Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/1/5/159dc5a8-5cba-4c20-8c07-28a3d86c8411.jpg?1738045272",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 4.0,
-    "rarity": "uncommon",
-    "power": "2",
-    "toughness": "4",
-    "number": "163",
-    "types": [],
-    "jname": "Fang-Druid Summoner",
-    "imageurl": "https://cards.scryfall.io/large/front/4/9/496442f6-48c7-464e-bcf3-4c14f49fa065.jpg?1738082213",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 3.0,
-    "rarity": "rare",
-    "power": null,
-    "toughness": null,
-    "number": "168",
-    "types": [],
-    "jname": "Lumbering Worldwagon",
-    "imageurl": "https://cards.scryfall.io/large/front/9/f/9f989c59-7b2a-4036-9ea2-cd0c7e85c15b.jpg?1738102668",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 3.0,
-    "rarity": "rare",
-    "power": "5",
-    "toughness": "4",
-    "number": "177",
-    "types": [],
-    "jname": "Regal Imperiosaur",
-    "imageurl": "https://cards.scryfall.io/large/front/3/6/36f569cc-ed09-4c27-b753-18b22ad7f425.jpg?1738102219",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G"
-    ],
-    "manaValue": 5.0,
-    "rarity": "uncommon",
-    "power": "9",
-    "toughness": "7",
-    "number": "182",
-    "types": [],
-    "jname": "Terrian, World Tyrant",
-    "imageurl": "https://cards.scryfall.io/large/front/b/4/b44255cf-5264-4ead-9de0-20cc0f7cac6f.jpg?1738045308",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B",
-      "G"
-    ],
-    "manaValue": 4.0,
-    "rarity": "rare",
-    "power": "6",
-    "toughness": "6",
-    "number": "199",
-    "types": [],
-    "jname": "\"Siege Renault\"",
-    "imageurl": "https://cards.scryfall.io/large/front/4/0/405e7900-f6df-4033-b70b-b1d2a8b6d7c8.jpg?1738051148",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B",
-      "G",
-      "U"
-    ],
-    "manaValue": 3.0,
-    "rarity": "mythic",
-    "power": "0",
-    "toughness": "0",
-    "number": "214",
-    "types": [],
-    "jname": "Mimeoplasm, Revered One",
-    "imageurl": "https://cards.scryfall.io/large/front/3/4/34e4c342-dc22-4e9c-81fc-a691ae9e21c1.jpg?1738070876",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "G",
-      "U"
-    ],
-    "manaValue": 2.0,
-    "rarity": "uncommon",
-    "power": "1",
-    "toughness": "1",
-    "number": "224",
-    "types": [],
-    "jname": "Skyserpent Seeker",
-    "imageurl": "https://cards.scryfall.io/large/front/8/d/8dbd9fc0-c0df-4119-a0d3-2e1790998c21.jpg?1738102495",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [],
-    "manaValue": 6.0,
-    "rarity": "mythic",
-    "power": null,
-    "toughness": null,
-    "number": "240",
-    "types": [],
-    "jname": "Radiant Lotus",
-    "imageurl": "https://cards.scryfall.io/large/front/b/e/be6dac83-39c2-40dc-a322-76a3ea4e7aee.jpg?1738102272",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [
-      "B"
-    ],
-    "manaValue": 7.0,
-    "rarity": "uncommon",
-    "power": "5",
-    "toughness": "5",
-    "number": "998?",
-    "types": [],
-    "jname": "Shefet Archfiend",
-    "imageurl": "https://cards.scryfall.io/large/front/0/7/079dc8d2-0de3-415e-8af8-b8dec669368a.jpg?1738103844",
-    "backimageurl": null,
-    "layout": "normal"
-  },
-  {
-    "colorIdentity": [],
-    "manaValue": 3.0,
-    "rarity": "common",
-    "power": null,
-    "toughness": null,
-    "number": "999?",
-    "types": [],
-    "jname": "Monument to Endurance",
-    "imageurl": "https://cards.scryfall.io/large/front/d/2/d21433ba-0a14-42bc-ad0b-a4ef823a3295.jpg?1738103717",
     "backimageurl": null,
     "layout": "normal"
   }
