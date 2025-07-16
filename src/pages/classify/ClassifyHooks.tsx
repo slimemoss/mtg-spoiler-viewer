@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { MtgCard } from '../../data/LTR'
+import { MtgCard } from '../../data/Schema'
 
 export enum SortBy {
   ID,
@@ -51,23 +51,33 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
     }
     const fillEmpty = (cards: MtgCard[]): MtgCard[] => {
       const defaultMtgCard: MtgCard = {
-        colorIdentity: [],
-        manaValue: 0,
+        color_identity: [],
+        mana_cost: null,
         rarity: '',
-        number: '',
+        collector_number: '',
         power: null,
         toughness: null,
-        types: [],
-        jname: '',
-        imageurl: 'https://cards.scryfall.io/back.png',
-        backimageurl: null,
+        type_line: '',
+	language: {
+	  ja: {
+	    name: '',
+	    face: 'https://cards.scryfall.io/back.png',
+	    back: null,
+	  },
+	  en: {
+	    name: '',
+	    face: 'https://cards.scryfall.io/back.png',
+	    back: null,
+	  }
+	},
+	layout: ''
       }
 
-      const maxNumber = Math.min(Math.max(...cards.map(c => parseInt(c.number))), 271)
+      const maxNumber = Math.min(Math.max(...cards.map(c => parseInt(c.collector_number))), 271)
 
       const idx = [...Array(maxNumber).keys()]
       const res: MtgCard[] = idx.map(i => {
-        const org = cards.filter(c => parseInt(c.number) == i + 1)
+        const org = cards.filter(c => parseInt(c.collector_number) == i + 1)
         if(org.length != 0) {
           return org[0]
         } else {
@@ -83,16 +93,15 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
     const sortByColor = (cards: MtgCard[]): MtgCard[] => {
       const colorOrder = ['W', 'U', 'B', 'R', 'G']
       const prio = (card: MtgCard): number => {
-        if(card.jname == '七つの死の種父') { return 0 }
         var res = 0
-        if(card.types.includes('Land')) { res += 10000 }
-        if(card.colorIdentity.length == 0) { res += 5000 }
-        if(card.colorIdentity.length > 2) { res += 2000 }
-        if(card.colorIdentity.length > 1) { res += 1000 }
-        card.colorIdentity.map(color => {
+        if(card.type_line.includes('Land')) { res += 10000 }
+        if(card.color_identity.length == 0) { res += 5000 }
+        if(card.color_identity.length > 2) { res += 2000 }
+        if(card.color_identity.length > 1) { res += 1000 }
+        card.color_identity.map(color => {
           res += colorOrder.indexOf(color) ** 3
         })
-        
+
         return res
       }
       return cards.sort((a, b) => {

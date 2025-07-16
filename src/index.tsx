@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/DFT.json'
+import DATA from './data/EOE.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -34,7 +34,7 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="霊気走破" />}/>
+        <Route path="*" element={<Page data={DATA} setName="久遠の終端" />}/>
       </Routes>
     </HashRouter>
 

@@ -6,7 +6,7 @@ import { TbRepeat } from 'react-icons/tb'
 import { AiOutlineRotateRight } from "react-icons/ai"
 import {isMobile} from 'react-device-detect'
 
-import { MtgCard } from '../data/LTR'
+import { MtgCard } from '../data/Schema'
 
 interface Props {
   card: MtgCard
@@ -16,7 +16,7 @@ interface Props {
 
 export const Card = (props: Props) => {
   const card = props.card
-  const hasBack = card.backimageurl != null
+  const hasBack = card.language.ja.back != null
   const [isFace, setIsFace] = React.useState(true)
 
   const isSplit = card.layout == 'split'
@@ -26,7 +26,7 @@ export const Card = (props: Props) => {
   const geturl = (card: MtgCard, isFace: boolean): string => {
     const fblthp = 'https://cards.scryfall.io/large/front/c/3/c36f01a5-82bf-4fc6-9396-4410067c351b.jpg?1702429424'
 
-    const url = isFace ? card.imageurl : (card.backimageurl ? card.backimageurl : '')
+    const url = isFace ? card.language.ja.face : (card.language.ja.back ? card.language.ja.back : '')
     if (url == '') {
       return fblthp
     }
@@ -35,9 +35,9 @@ export const Card = (props: Props) => {
     }
 
     const fname = url.split('/').slice(-1)[0]
-    return './dist/image/card/' + encodeURIComponent(fname) + '.webp'
+    return './dist/image/card/' + encodeURIComponent(fname)
   }
-  
+
   return (
     <>
       <props.ImageComponent url={geturl(card, isFace)} card={card} />
@@ -55,7 +55,7 @@ export const Card = (props: Props) => {
 
       <div style={{display: 'flex'}}>
         <div style={{fontSize: '70%'}}>{props.count}</div>
-        <div style={{flex: 'auto', textAlign: 'center'}}>{card.jname}</div>
+        <div style={{flex: 'auto', textAlign: 'center'}}>{card.language.ja.name}</div>
 
       {hasBack ? (
         <div>
@@ -80,7 +80,7 @@ export const Card = (props: Props) => {
       ) : (
         <div/>
       )}
-      
+
     </div>
     </>
   )

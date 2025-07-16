@@ -1,5 +1,6 @@
 import * as React from 'react'
 import { Form } from 'react-bootstrap'
+import { useLocation } from 'react-router-dom'
 
 export interface ToggleQuizI {
   mana: boolean
@@ -11,8 +12,14 @@ export interface ToggleQuizHooksI {
   setStats: (v: boolean) => void
 }
 
+
+function useQuery() {
+  return new URLSearchParams(useLocation().search)
+}
 export const useToggleQuiz = (): [ToggleQuizI, ToggleQuizHooksI] => {
-  const [toggleQuiz, setToggleQuiz] = React.useState<ToggleQuizI>({mana: true, stats: true})
+  const defaultQuiz = useQuery().get('quiz') == "true"
+  const [toggleQuiz, setToggleQuiz] = React.useState<ToggleQuizI>({mana: defaultQuiz, stats: defaultQuiz})
+
 
   return [toggleQuiz, {
     setMana: (v: boolean) => {

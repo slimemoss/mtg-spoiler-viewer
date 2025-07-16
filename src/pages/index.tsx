@@ -1,11 +1,10 @@
 import * as React from 'react'
 import { Helmet } from "react-helmet"
 
-import { MtgCard } from '../data/LTR'
+import { MtgCard } from '../data/Schema'
 import { Card } from './Card'
 import { Classify } from './classify/Classify'
 import { useClassify } from './classify/ClassifyHooks'
-import { useDelay } from './delayHooks'
 import { QuizCard } from './quiz/QuizCard'
 import { ToggleQuiz, useToggleQuiz } from './quiz/ToggleQuiz'
 
@@ -23,10 +22,6 @@ export const Page = (props: Props) => {
   const [config, classifyHooks] = useClassify()
   const [toggleQuiz, toggleQuizHooks] = useToggleQuiz()
   const [shown, setShown] = React.useState<MtgCard[]>(props.data)
-  const wating = useDelay(200)
-
-  //スマホ表示のための分割描写
-  const displayDiv: number = 20
 
   React.useEffect(() => {
     let c = classifyHooks.classify(props.data)
@@ -39,7 +34,7 @@ export const Page = (props: Props) => {
   }, [])
 
   const ImageComponent = (props: ImageComponentProps) => {
-    const exists = props.card.jname != ''
+    const exists = props.card.language.ja.name != ''
     return (
       <QuizCard url={props.url}
                 hideMana={toggleQuiz.mana && exists}
@@ -51,7 +46,7 @@ export const Page = (props: Props) => {
     <Helmet
       title={props.setName + ' カードギャラリー | slimemoss'}
     />
-    
+
     <div style={{ display: 'flex', gap: '100px'}}>
       <Classify config={config} hooks={classifyHooks} />
       <ToggleQuiz value={toggleQuiz} hooks={toggleQuizHooks} />
@@ -61,10 +56,10 @@ export const Page = (props: Props) => {
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fill,minmax(300px, 1fr))'}}>
       {shown.map((card, i) => (
-        <div key={card.number} style={{margin: '0.2rem'}}>
+        <div key={card.collector_number} style={{margin: '0.2rem'}}>
           <Card card={card} count={i + 1} ImageComponent={ImageComponent}/>
         </div>
       ))}
     </div>
-    </>)
+  </>)
 }
