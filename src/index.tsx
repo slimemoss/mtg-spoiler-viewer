@@ -27,9 +27,9 @@ root.render(
     </Alert>
 
     <Alert variant="info">
-      <a href="https://magic.wizards.com/ja/products/aetherdrift/card-image-gallery?cigset=SPG"
+      <a href="https://magic.wizards.com/ja/products/edge-of-eternities/card-image-gallery?cigproduct=eoe-products-play-boosters&cigset=SPG&cigset=EOS&cigset=EOC"
          target="_blank" rel="noopener noreferrer">
-        スペシャルゲストはこちら</a>
+        その他のプレイブースター産カードはこちら(公式サイト)</a>
     </Alert>
 
     <HashRouter>

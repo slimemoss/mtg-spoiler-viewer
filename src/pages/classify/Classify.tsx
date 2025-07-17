@@ -33,8 +33,6 @@ export const Classify = (props: Props) => {
             key={i} type="radio" label={v[1]}
             checked={config.sortBy == v[0]}
             onChange={(e) => {
-              console.log(v)
-              console.log(e.target.value)
               if(e.target.value == "on"){hooks.setSort(v[0])}
             }}
             />

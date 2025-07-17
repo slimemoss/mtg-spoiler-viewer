@@ -12,6 +12,9 @@ interface Props {
 
 export const Mask = (props: Props) => {
   const [hide, setHide] = React.useState(props.hide)
+  React.useEffect(() => {
+    setHide(props.hide)
+  }, [props.hide])
 
   return (
     <div

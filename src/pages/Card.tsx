@@ -7,15 +7,20 @@ import { AiOutlineRotateRight } from "react-icons/ai"
 import {isMobile} from 'react-device-detect'
 
 import { MtgCard } from '../data/Schema'
+import { ToggleQuizI } from './quiz/ToggleQuiz'
+import { ToggleLangI } from './toggleLang'
+import { CardImage } from './CardImage'
+import { cardurl } from './cardurl'
 
 interface Props {
   card: MtgCard
   count: number
-  ImageComponent: React.ComponentType<{url: string, card: MtgCard}>
+  toggleQuiz: ToggleQuizI
+  toggleLang: ToggleLangI
 }
 
 export const Card = (props: Props) => {
-  const card = props.card
+  const {card, count, toggleQuiz, toggleLang} = props
   const hasBack = card.language.ja.back != null
   const [isFace, setIsFace] = React.useState(true)
 
@@ -23,29 +28,14 @@ export const Card = (props: Props) => {
   const [showModal, setShowModal] = React.useState(false)
   const needModal = isSplit && !isMobile
 
-  const geturl = (card: MtgCard, isFace: boolean): string => {
-    const fblthp = 'https://cards.scryfall.io/large/front/c/3/c36f01a5-82bf-4fc6-9396-4410067c351b.jpg?1702429424'
-
-    const url = isFace ? card.language.ja.face : (card.language.ja.back ? card.language.ja.back : '')
-    if (url == '') {
-      return fblthp
-    }
-    if (url == 'https://cards.scryfall.io/back.png') {
-      return url
-    }
-
-    const fname = url.split('/').slice(-1)[0]
-    return './dist/image/card/' + encodeURIComponent(fname)
-  }
-
   return (
     <>
-      <props.ImageComponent url={geturl(card, isFace)} card={card} />
+      <CardImage card={card} toggleQuiz={toggleQuiz} isFace={isFace} toggleLang={toggleLang} />
 
       {needModal ? (
         <Modal show={showModal} onHide={() => setShowModal(!showModal)} style={{transform: 'rotate(0deg)'}}>
           <Modal.Body style={{transform: 'rotate(90deg) translate(-20%)'}}>
-            <img src={geturl(card, isFace)}
+            <img src={cardurl(card, isFace, toggleLang.lang)}
                  style={{minWidth: '300px', width: '100%', height: 'auto'}} />
           </Modal.Body>
         </Modal>
@@ -54,7 +44,7 @@ export const Card = (props: Props) => {
       )}
 
       <div style={{display: 'flex'}}>
-        <div style={{fontSize: '70%'}}>{props.count}</div>
+        <div style={{fontSize: '70%'}}>{count}</div>
         <div style={{flex: 'auto', textAlign: 'center'}}>{card.language.ja.name}</div>
 
       {hasBack ? (

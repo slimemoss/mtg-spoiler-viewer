@@ -40,7 +40,7 @@ export const ToggleQuiz = (props: ToggleQuizProps) => {
   const hooks = props.hooks
   return (
     <div>
-      <Form.Label>マスク</Form.Label>
+      <Form.Label>クイズ</Form.Label>
       <div className="d-flex">
         <Form.Check
           type="switch"
