@@ -1,6 +1,5 @@
 import * as React from 'react'
 import { Helmet } from "react-helmet"
-import { isMobile } from 'react-device-detect'
 
 import { MtgCard } from '../data/Schema'
 import { Card } from './Card'
@@ -38,9 +37,6 @@ export const Page = (props: Props) => {
     <div style={{display: 'flex', flexWrap: 'wrap', columnGap: '100px'}}>
       <Classify config={config} hooks={classifyHooks} />
       <ToggleLang toggleLang={toggleLang} hooks={toggleLangHooks} />
-      <div hidden={isMobile}>
-        <ToggleQuiz value={toggleQuiz} hooks={toggleQuizHooks} />
-      </div>
     </div>
 
     <div style={{

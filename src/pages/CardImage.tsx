@@ -33,12 +33,6 @@ export const CardImage = (props: Props) => {
 	  }
 	}}
       />
-      <Mask hide={toggleQuiz.mana && exists} coord={{
-        top: '5%', height: '5.5%', left: '65%', right: '7%',
-      }} />
-      <Mask hide={toggleQuiz.stats && exists && card.power != null} coord={{
-        top: '89%', height: '8%', left: '71%', right: '4%',
-      }} />
     </div>
   )
 }
