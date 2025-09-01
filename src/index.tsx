@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/EOE.json'
+import DATA from './data/SPM.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -22,19 +22,19 @@ root.render(
       </ul>
     </div>
 
-    <Alert variant="warning" hidden={true}>
+    <Alert variant="warning" hidden={false}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
 
     <Alert variant="info">
-      <a href="https://magic.wizards.com/ja/products/edge-of-eternities/card-image-gallery?cigproduct=eoe-products-play-boosters&cigset=SPG&cigset=EOS&cigset=EOC"
+      <a href="https://magic.wizards.com/ja/products/marvel/spider-man/card-image-gallery?cigproduct=spm-products-play-boosters&cigset=SPE&cigset=PRM&cigset=MAR"
          target="_blank" rel="noopener noreferrer">
         その他のプレイブースター産カードはこちら(公式サイト)</a>
     </Alert>
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="久遠の終端" />}/>
+        <Route path="*" element={<Page data={DATA} setName="マーベル スパイダーマン" />}/>
       </Routes>
     </HashRouter>
 
