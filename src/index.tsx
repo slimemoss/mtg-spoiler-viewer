@@ -25,6 +25,9 @@ root.render(
     <Alert variant="warning" hidden={true}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
+    <Alert variant="warning" hidden={false}>
+      一部カードが英語になっています。ご了承ください。
+    </Alert>
 
     <Alert variant="info">
       <a href="https://magic.wizards.com/ja/products/marvel/spider-man/card-image-gallery?cigproduct=spm-products-play-boosters&cigset=SPE&cigset=PRM&cigset=MAR"
