@@ -25,7 +25,7 @@ root.render(
     <Alert variant="warning" hidden={true}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
-    <Alert variant="warning" hidden={false}>
+    <Alert variant="warning" hidden={true}>
       一部カードが英語になっています。ご了承ください。
     </Alert>
 
