@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/SPM.json'
+import DATA from './data/TLA.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -22,14 +22,14 @@ root.render(
       </ul>
     </div>
 
-    <Alert variant="warning" hidden={true}>
+    <Alert variant="warning" hidden={false}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
     <Alert variant="warning" hidden={true}>
       一部カードが英語になっています。ご了承ください。
     </Alert>
 
-    <Alert variant="info">
+    <Alert variant="info" hidden={true}>
       <a href="https://magic.wizards.com/ja/products/marvel/spider-man/card-image-gallery?cigproduct=spm-products-play-boosters&cigset=SPE&cigset=PRM&cigset=MAR"
          target="_blank" rel="noopener noreferrer">
         その他のプレイブースター産カードはこちら(公式サイト)</a>
@@ -37,7 +37,7 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="マーベル スパイダーマン" />}/>
+        <Route path="*" element={<Page data={DATA} setName="アバター 伝説の少年アン" />}/>
       </Routes>
     </HashRouter>
 
