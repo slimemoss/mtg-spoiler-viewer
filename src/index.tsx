@@ -29,10 +29,10 @@ root.render(
       一部カードが英語になっています。ご了承ください。
     </Alert>
 
-    <Alert variant="info" hidden={true}>
-      <a href="https://magic.wizards.com/ja/products/marvel/spider-man/card-image-gallery?cigproduct=spm-products-play-boosters&cigset=SPE&cigset=PRM&cigset=MAR"
+    <Alert variant="info" hidden={false}>
+      <a href="https://magic.wizards.com/ja/products/avatar-the-last-airbender/card-image-gallery?cigproduct=tla-products-play-boosters&cigset=TLE"
          target="_blank" rel="noopener noreferrer">
-        その他のプレイブースター産カードはこちら(公式サイト)</a>
+        リミテ用・エターナルフォーマット用カード(TLE)はこちら (公式サイト)</a>
     </Alert>
 
     <HashRouter>
