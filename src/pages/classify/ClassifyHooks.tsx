@@ -73,7 +73,7 @@ export const useClassify = (): [Config, ClassifyHooksI] => {
 	layout: ''
       }
 
-      const maxNumber = Math.min(Math.max(...cards.map(c => parseInt(c.collector_number))), 271)
+      const maxNumber = Math.max(...cards.map(c => parseInt(c.collector_number)))
 
       const idx = [...Array(maxNumber).keys()]
       const res: MtgCard[] = idx.map(i => {
