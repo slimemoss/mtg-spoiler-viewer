@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/TLA.json'
+import DATA from './data/ECL.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -25,19 +25,23 @@ root.render(
     <Alert variant="warning" hidden={true}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
-    <Alert variant="warning" hidden={true}>
-      一部カードが英語になっています。ご了承ください。
+    <Alert variant="warning" hidden={false}>
+      以下のカードが英語になっています。ご了承ください。(公式ギャラリー未掲載のため。2026-01-10 12:00)
+      <ul>
+	<li>ECL0009 Champion of the Clachan</li>
+	<li>ECL0095 Champion of the Weird</li>
+      </ul>
     </Alert>
 
     <Alert variant="info" hidden={false}>
-      <a href="https://magic.wizards.com/ja/products/avatar-the-last-airbender/card-image-gallery?cigproduct=tla-products-play-boosters&cigset=TLE"
+      <a href="https://magic.wizards.com/ja/products/lorwyn-eclipsed/card-image-gallery?cigproduct=ecl-products-play-boosters&cigset=SPG"
          target="_blank" rel="noopener noreferrer">
-        リミテ用・エターナルフォーマット用カード(TLE)はこちら (公式サイト)</a>
+        リミテ枠スペシャルゲスト(SPG)はこちら (公式サイト)</a>
     </Alert>
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="アバター 伝説の少年アン" />}/>
+        <Route path="*" element={<Page data={DATA} setName="ローウィンの昏明" />}/>
       </Routes>
     </HashRouter>
 
