@@ -19,3 +19,4 @@ jobs:
         file_pattern: dist/index.js
         branch: deploy
         create_branch: true
+        push_options: '--force'
