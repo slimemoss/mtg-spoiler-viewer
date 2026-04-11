@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/TMT.json'
+import DATA from './data/SOS.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -33,16 +33,13 @@ root.render(
       </ul>
     </Alert>
 
-    <Alert variant="info" hidden={false}>
-      <a href="https://magic.wizards.com/ja/products/teenage-mutant-ninja-turtles/card-image-gallery?cigproduct=tmt-products-arena-limited-pack&cigproduct=tmt-products-play-boosters&cigset=PZA"
-         target="_blank" rel="noopener noreferrer">
-	このページはプレイブースター産のTMTのみを掲載しています。
-        スペシャルゲスト(PZA)はこちら (公式サイト)</a>
+    <Alert variant="info" hidden={true}>
+      このページはプレイブースター産のカードのみを掲載しています。
     </Alert>
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="ミュータント タートルズ" />}/>
+        <Route path="*" element={<Page data={DATA} setName="ストリクスヘイヴンの秘密" />}/>
       </Routes>
     </HashRouter>
 
