@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/SOS.json'
+import DATA from './data/MSH.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -26,10 +26,9 @@ root.render(
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
     <Alert variant="warning" hidden={true}>
-      以下のカードが英語になっています。ご了承ください。(公式ギャラリー未掲載のため。2026-01-10 12:00)
+      以下のカードが英語になっています。ご了承ください。(公式ギャラリー未掲載のため。2026-06-10 04:00)
       <ul>
-	<li>ECL0009 Champion of the Clachan</li>
-	<li>ECL0095 Champion of the Weird</li>
+				<li>MSH0267 Gleaming Bastion</li>
       </ul>
     </Alert>
 
@@ -39,7 +38,7 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="ストリクスヘイヴンの秘密" />}/>
+        <Route path="*" element={<Page data={DATA} setName="マーベル スーパー・ヒーローズ" />}/>
       </Routes>
     </HashRouter>
 
