@@ -25,8 +25,8 @@ root.render(
     <Alert variant="warning" hidden={true}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
-    <Alert variant="warning" hidden={true}>
-      以下のカードが英語になっています。ご了承ください。(公式ギャラリー未掲載のため。2026-06-10 04:00)
+    <Alert variant="warning" hidden={false}>
+      以下のカードが英語になっています。ご了承ください。
       <ul>
 				<li>MSH0267 Gleaming Bastion</li>
       </ul>
