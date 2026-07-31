@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/MSH.json'
+import DATA from './data/HOB.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -25,7 +25,7 @@ root.render(
     <Alert variant="warning" hidden={true}>
       プレビュー期間のため、一部カードは未掲載です。
     </Alert>
-    <Alert variant="warning" hidden={false}>
+    <Alert variant="warning" hidden={true}>
       以下のカードが英語になっています。ご了承ください。
       <ul>
 				<li>MSH0267 Gleaming Bastion</li>
@@ -38,7 +38,7 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="マーベル スーパー・ヒーローズ" />}/>
+        <Route path="*" element={<Page data={DATA} setName="ホビット" />}/>
       </Routes>
     </HashRouter>
 
