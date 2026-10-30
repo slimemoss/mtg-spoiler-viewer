@@ -11,7 +11,7 @@ export interface Config {
 }
 const defaultConfig: Config = {
   rarity: new Set([]),
-  sortBy: SortBy.Color
+  sortBy: SortBy.ID
 }
 
 export interface ClassifyHooksI {

@@ -4,7 +4,7 @@ import { Route, Routes, HashRouter } from 'react-router-dom'
 import { Helmet } from "react-helmet"
 import Alert from 'react-bootstrap/Alert'
 import {Page} from './pages'
-import DATA from './data/FRA.json'
+import DATA from './data/TRK.json'
 
 const container = document.getElementById('app')
 if (!container) throw new Error('Failed to find the root element')
@@ -22,8 +22,8 @@ root.render(
       </ul>
     </div>
 
-    <Alert variant="warning" hidden={true}>
-      プレビュー期間のため、一部カードは未掲載です。
+    <Alert variant="warning" hidden={false}>
+      プレビュー期間のため、一部カードは英語もしくは未掲載です。
     </Alert>
     <Alert variant="warning" hidden={true}>
       以下のカードが英語になっています。ご了承ください。
@@ -38,7 +38,7 @@ root.render(
 
     <HashRouter>
       <Routes>
-        <Route path="*" element={<Page data={DATA} setName="リアリティ・フラクチャー" />}/>
+        <Route path="*" element={<Page data={DATA} setName="スター・トレック" />}/>
       </Routes>
     </HashRouter>
 
